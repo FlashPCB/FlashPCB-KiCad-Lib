@@ -6,7 +6,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -84,7 +84,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -162,7 +162,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -240,7 +240,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -318,7 +318,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -396,7 +396,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -474,7 +474,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -552,7 +552,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -630,7 +630,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -708,7 +708,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -786,7 +786,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -864,7 +864,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -942,7 +942,7 @@
 		(property "Value" "DIODE_TVS" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_0_0"
@@ -1020,7 +1020,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1108,7 +1108,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1196,7 +1196,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1284,7 +1284,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1372,7 +1372,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1460,7 +1460,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1548,7 +1548,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1636,7 +1636,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1724,7 +1724,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1812,7 +1812,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1900,7 +1900,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -1988,7 +1988,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"
@@ -2076,7 +2076,7 @@
 		(property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DO-214AC/SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DO-214AC_SMA SMB SMC SMAF SMBF SOD-123 SOD-123FL SOD-128 SOD-323 SOD-323F SOD-523 SOD-723 SOD-80C " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "DIODE_TVS_BIDIRECTIONAL_0_0"

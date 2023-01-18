@@ -5287,22 +5287,22 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI4/3B+/ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI4_3B+_ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "RASPBERRY_PI4/3B+/ZERO" (id 1) (at 0 0 0)
+		(property "Value" "RASPBERRY_PI4_3B+_ZERO" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B/B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B_B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_0"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_0"
 			(text "Rasberry PI 4/3 B+" (at -22.86 -60.96 0)
 				(effects (font (size 1.27 1.08585)) (justify left bottom))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_1"
 			(rectangle (start -7.62 -71.12) (end 0.0 -63.5)
 				(fill (type outline))
 			)
@@ -5375,7 +5375,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_1_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_1_1"
 			(pin bidirectional line (at -15.24 0 0) (length 2.54)
 				(name "3V3$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))
@@ -5539,22 +5539,22 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI4/3B+/ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI4_3B+_ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "RASPBERRY_PI4/3B+/ZERO" (id 1) (at 0 0 0)
+		(property "Value" "RASPBERRY_PI4_3B+_ZERO" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B/B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B_B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_0"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_0"
 			(text "Rasberry PI 4/3 B+" (at -22.86 -60.96 0)
 				(effects (font (size 1.27 1.08585)) (justify left bottom))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_1"
 			(rectangle (start -7.62 -71.12) (end 0.0 -63.5)
 				(fill (type outline))
 			)
@@ -5627,7 +5627,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_1_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_1_1"
 			(pin bidirectional line (at -15.24 0 0) (length 2.54)
 				(name "3V3$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))
@@ -5791,22 +5791,22 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI4/3B+/ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI4_3B+_ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "RASPBERRY_PI4/3B+/ZERO" (id 1) (at 0 0 0)
+		(property "Value" "RASPBERRY_PI4_3B+_ZERO" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B/B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "RASPBERRY_PI4_HAT RASPBERRY_PI3B_B+_HAT RASPBERRY_PI_ZERO_HAT " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_0"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_0"
 			(text "Rasberry PI 4/3 B+" (at -22.86 -60.96 0)
 				(effects (font (size 1.27 1.08585)) (justify left bottom))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_0_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_0_1"
 			(rectangle (start -7.62 -71.12) (end 0.0 -63.5)
 				(fill (type outline))
 			)
@@ -5879,7 +5879,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "RASPBERRY_PI4/3B+/ZERO_1_1"
+		(symbol "RASPBERRY_PI4_3B+_ZERO_1_1"
 			(pin bidirectional line (at -15.24 0 0) (length 2.54)
 				(name "3V3$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))
@@ -6474,22 +6474,22 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI_CM1/3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI_CM1_3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "RASPBERRY_PI_CM1/3" (id 1) (at 0 0 0)
+		(property "Value" "RASPBERRY_PI_CM1_3" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "RASPBERRY_PI_CM3/1 RASPBERRY_PI_CM3/1_MOUNTHOLES " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "RASPBERRY_PI_CM3_1 RASPBERRY_PI_CM3_1_MOUNTHOLES " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_0_0"
+		(symbol "RASPBERRY_PI_CM1_3_0_0"
 			(text "Raspberry Pi CM1/3" (at 2.54 -144.78 0)
 				(effects (font (size 2.54 2.1717)) (justify bottom))
 			)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_0_1"
+		(symbol "RASPBERRY_PI_CM1_3_0_1"
 			(polyline
 				(pts
 					(xy -30.48 121.92)
@@ -6501,7 +6501,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_1_1"
+		(symbol "RASPBERRY_PI_CM1_3_1_1"
 			(pin bidirectional line (at -33.02 116.84 0) (length 2.54)
 				(name "1_GND" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))
@@ -7305,22 +7305,22 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI_CM1/3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI_CM1_3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "RASPBERRY_PI_CM1/3" (id 1) (at 0 0 0)
+		(property "Value" "RASPBERRY_PI_CM1_3" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "RASPBERRY_PI_CM3/1 RASPBERRY_PI_CM3/1_MOUNTHOLES " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "RASPBERRY_PI_CM3_1 RASPBERRY_PI_CM3_1_MOUNTHOLES " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_0_0"
+		(symbol "RASPBERRY_PI_CM1_3_0_0"
 			(text "Raspberry Pi CM1/3" (at 2.54 -144.78 0)
 				(effects (font (size 2.54 2.1717)) (justify bottom))
 			)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_0_1"
+		(symbol "RASPBERRY_PI_CM1_3_0_1"
 			(polyline
 				(pts
 					(xy -30.48 121.92)
@@ -7332,7 +7332,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "RASPBERRY_PI_CM1/3_1_1"
+		(symbol "RASPBERRY_PI_CM1_3_1_1"
 			(pin bidirectional line (at -33.02 116.84 0) (length 2.54)
 				(name "1_GND" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))

@@ -645,19 +645,19 @@
 		)
 	)
 
-	(symbol "INDUCTOR_CDRH3D28/LDNP-120NC" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_CDRH3D28_LDNP-120NC" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "INDUCTOR_CDRH3D28/LDNP-120NC" (id 1) (at 0 0 0)
+		(property "Value" "INDUCTOR_CDRH3D28_LDNP-120NC" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "INDUCTOR_CDRH3D28/LDNP-120NC " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "INDUCTOR_CDRH3D28_LDNP-120NC " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "INDUCTOR_CDRH3D28/LDNP-120NC_0_0"
+		(symbol "INDUCTOR_CDRH3D28_LDNP-120NC_0_0"
 		)
-		(symbol "INDUCTOR_CDRH3D28/LDNP-120NC_0_1"
+		(symbol "INDUCTOR_CDRH3D28_LDNP-120NC_0_1"
 			(arc (start -2.54 0.0) (mid -3.81 1.27) (end -5.08 0.0)
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
@@ -671,7 +671,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "INDUCTOR_CDRH3D28/LDNP-120NC_1_1"
+		(symbol "INDUCTOR_CDRH3D28_LDNP-120NC_1_1"
 			(pin bidirectional line (at -7.62 0 0) (length 2.54)
 				(name "P$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))

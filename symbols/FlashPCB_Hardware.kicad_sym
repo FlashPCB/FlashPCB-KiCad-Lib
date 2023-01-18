@@ -579,22 +579,22 @@
 		)
 	)
 
-	(symbol "MOUNT-HOLE-1/4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MOUNT-HOLE-1_4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "MH" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "MOUNT-HOLE-1/4" (id 1) (at 0 0 0)
+		(property "Value" "MOUNT-HOLE-1_4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "MOUNT-HOLE-1/4 MOUNT-HOLE-1/4-NO-SILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "MOUNT-HOLE-1_4 MOUNT-HOLE-1_4-NO-SILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "MOUNT-HOLE-1/4_0_0"
+		(symbol "MOUNT-HOLE-1_4_0_0"
 			(text "Mounting Hole" (at 0.0 -6.35 0)
 				(effects (font (size 1.778 1.52019)) (justify bottom))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4_0_1"
+		(symbol "MOUNT-HOLE-1_4_0_1"
 			(circle (center 0 0) (radius 2.54)
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
@@ -602,26 +602,26 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4_1_1"
+		(symbol "MOUNT-HOLE-1_4_1_1"
 		)
 	)
 
-	(symbol "MOUNT-HOLE-1/4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MOUNT-HOLE-1_4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "MH" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "MOUNT-HOLE-1/4" (id 1) (at 0 0 0)
+		(property "Value" "MOUNT-HOLE-1_4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "MOUNT-HOLE-1/4 MOUNT-HOLE-1/4-NO-SILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "MOUNT-HOLE-1_4 MOUNT-HOLE-1_4-NO-SILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "MOUNT-HOLE-1/4_0_0"
+		(symbol "MOUNT-HOLE-1_4_0_0"
 			(text "Mounting Hole" (at 0.0 -6.35 0)
 				(effects (font (size 1.778 1.52019)) (justify bottom))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4_0_1"
+		(symbol "MOUNT-HOLE-1_4_0_1"
 			(circle (center 0 0) (radius 2.54)
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
@@ -629,26 +629,26 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4_1_1"
+		(symbol "MOUNT-HOLE-1_4_1_1"
 		)
 	)
 
-	(symbol "MOUNT-HOLE-1/4-PTH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MOUNT-HOLE-1_4-PTH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "MH" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "MOUNT-HOLE-1/4-PTH" (id 1) (at 0 0 0)
+		(property "Value" "MOUNT-HOLE-1_4-PTH" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "MOUNT-HOLE-1/4-PTH MOUNT-HOLE-1/4-PTH-NO-SILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "MOUNT-HOLE-1_4-PTH MOUNT-HOLE-1_4-PTH-NO-SILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_0_0"
+		(symbol "MOUNT-HOLE-1_4-PTH_0_0"
 			(text "Mounting Hole" (at 0.0 -6.35 0)
 				(effects (font (size 1.778 1.52019)) (justify bottom))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_0_1"
+		(symbol "MOUNT-HOLE-1_4-PTH_0_1"
 			(circle (center 0 0) (radius 2.54)
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
@@ -656,7 +656,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_1_1"
+		(symbol "MOUNT-HOLE-1_4-PTH_1_1"
 			(pin bidirectional line (at -5.08 0 0) (length 2.54)
 				(name "P$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))
@@ -664,22 +664,22 @@
 		)
 	)
 
-	(symbol "MOUNT-HOLE-1/4-PTH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MOUNT-HOLE-1_4-PTH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "MH" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "Value" "MOUNT-HOLE-1/4-PTH" (id 1) (at 0 0 0)
+		(property "Value" "MOUNT-HOLE-1_4-PTH" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "MOUNT-HOLE-1/4-PTH MOUNT-HOLE-1/4-PTH-NO-SILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "MOUNT-HOLE-1_4-PTH MOUNT-HOLE-1_4-PTH-NO-SILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_0_0"
+		(symbol "MOUNT-HOLE-1_4-PTH_0_0"
 			(text "Mounting Hole" (at 0.0 -6.35 0)
 				(effects (font (size 1.778 1.52019)) (justify bottom))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_0_1"
+		(symbol "MOUNT-HOLE-1_4-PTH_0_1"
 			(circle (center 0 0) (radius 2.54)
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
@@ -687,7 +687,7 @@
 				(stroke (width 0.254) (type default) (color 0 0 0 0))
 			)
 		)
-		(symbol "MOUNT-HOLE-1/4-PTH_1_1"
+		(symbol "MOUNT-HOLE-1_4-PTH_1_1"
 			(pin bidirectional line (at -5.08 0 0) (length 2.54)
 				(name "P$1" (effects (font (size 1.27 1.08585))))
 				(number "P$1" (effects (font (size 1.27 1.08585))))

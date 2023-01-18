@@ -428,160 +428,6 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-		(property "Reference" "Q" (id 0) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "Value" "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (id 1) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "ki_fp_filters" "8-POWER-TDFN " (id 4) (at 0 0 0)
-			(effects (font (size 1.27 1.27)) hide)
-		)
-		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_0_0"
-			(text "G" (at -7.62 -1.016 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "D" (at 5.08 4.318 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "S" (at 5.08 -5.08 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "N-CH" (at -1.905 3.81 0)
-				(effects (font (size 1.016 0.86868)) (justify left bottom))
-			)
-		)
-		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_0_1"
-			(polyline
-				(pts
-					(xy -0.254 0)
-					(xy 0.762 1.016)
-					(xy 0.762 -1.016)
-					(xy -0.254 0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy 3.048 -0.508)
-					(xy 5.08 -0.508)
-					(xy 4.064 0.508)
-					(xy 3.048 -0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy -2.54 -2.54)
-					(xy -2.54 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy -1.27 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 2.54 0.0)
-					(xy -1.27 0.0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.54)
-					(xy -1.27 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 3.302)
-					(xy -1.27 1.778)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 0.762)
-					(xy -1.27 -0.762)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 -1.778)
-					(xy -1.27 -3.302)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 4.064 -2.54)
-					(xy 4.064 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 3.048 0.508)
-					(xy 5.08 0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(circle (center 0 0) (radius 5.6796125)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-		)
-		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_1_1"
-			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
-				(name "GATE" (effects (font (size 1.27 1.08585))))
-				(number "P$4" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$1" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08) hide
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$2" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08) hide
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$3" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$5" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$6" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$7" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$8" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "TAB" (effects (font (size 1.27 1.08585))))
-			)
-		)
-	)
-
 	(symbol "FET-N-CH-8-POWER-TDFN_5-LEAD-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -886,6 +732,160 @@
 			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
 				(name "DRAIN" (effects (font (size 1.27 1.08585))))
 				(number "TAB$2" (effects (font (size 1.27 1.08585))))
+			)
+		)
+	)
+
+	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+		(property "Reference" "Q" (id 0) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "Value" "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (id 1) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "ki_fp_filters" "8-POWER-TDFN " (id 4) (at 0 0 0)
+			(effects (font (size 1.27 1.27)) hide)
+		)
+		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_0_0"
+			(text "G" (at -7.62 -1.016 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "D" (at 5.08 4.318 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "S" (at 5.08 -5.08 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "N-CH" (at -1.905 3.81 0)
+				(effects (font (size 1.016 0.86868)) (justify left bottom))
+			)
+		)
+		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_0_1"
+			(polyline
+				(pts
+					(xy -0.254 0)
+					(xy 0.762 1.016)
+					(xy 0.762 -1.016)
+					(xy -0.254 0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy 3.048 -0.508)
+					(xy 5.08 -0.508)
+					(xy 4.064 0.508)
+					(xy 3.048 -0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54)
+					(xy -2.54 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy -1.27 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 2.54 0.0)
+					(xy -1.27 0.0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54)
+					(xy -1.27 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.302)
+					(xy -1.27 1.778)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 0.762)
+					(xy -1.27 -0.762)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778)
+					(xy -1.27 -3.302)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 4.064 -2.54)
+					(xy 4.064 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 3.048 0.508)
+					(xy 5.08 0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(circle (center 0 0) (radius 5.6796125)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+		)
+		(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN_1_1"
+			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
+				(name "GATE" (effects (font (size 1.27 1.08585))))
+				(number "P$4" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$1" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08) hide
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$2" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08) hide
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$3" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$5" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$6" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$7" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$8" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "TAB" (effects (font (size 1.27 1.08585))))
 			)
 		)
 	)
@@ -4413,7 +4413,7 @@
 		(property "Value" "FET-N-CH-D2PAK_D2PAK-4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-4 " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-4 " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-N-CH-D2PAK_D2PAK-4_0_0"
@@ -4547,7 +4547,7 @@
 		(property "Value" "FET-N-CH-D2PAK_D2PAK-3-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-3_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-3_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-N-CH-D2PAK_D2PAK-3-NOSILK_0_0"
@@ -4670,6 +4670,136 @@
 		)
 	)
 
+	(symbol "FET-N-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+		(property "Reference" "Q" (id 0) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "Value" "FET-N-CH-D2PAK_D2PAK-3" (id 1) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "ki_fp_filters" "D2PAK_TO-263-3 " (id 4) (at 0 0 0)
+			(effects (font (size 1.27 1.27)) hide)
+		)
+		(symbol "FET-N-CH-D2PAK_D2PAK-3_0_0"
+			(text "G" (at -7.62 -1.016 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "D" (at 5.08 4.318 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "S" (at 5.08 -5.08 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "N-CH" (at -1.905 3.81 0)
+				(effects (font (size 1.016 0.86868)) (justify left bottom))
+			)
+		)
+		(symbol "FET-N-CH-D2PAK_D2PAK-3_0_1"
+			(polyline
+				(pts
+					(xy -0.254 0)
+					(xy 0.762 1.016)
+					(xy 0.762 -1.016)
+					(xy -0.254 0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy 3.048 -0.508)
+					(xy 5.08 -0.508)
+					(xy 4.064 0.508)
+					(xy 3.048 -0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54)
+					(xy -2.54 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy -1.27 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 2.54 0.0)
+					(xy -1.27 0.0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54)
+					(xy -1.27 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.302)
+					(xy -1.27 1.778)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 0.762)
+					(xy -1.27 -0.762)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778)
+					(xy -1.27 -3.302)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 4.064 -2.54)
+					(xy 4.064 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 3.048 0.508)
+					(xy 5.08 0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(circle (center 0 0) (radius 5.6796125)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+		)
+		(symbol "FET-N-CH-D2PAK_D2PAK-3_1_1"
+			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
+				(name "GATE" (effects (font (size 1.27 1.08585))))
+				(number "P$1" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$3" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$4" (effects (font (size 1.27 1.08585))))
+			)
+		)
+	)
+
 	(symbol "FET-N-CH-D2PAK_D2PAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -4677,7 +4807,7 @@
 		(property "Value" "FET-N-CH-D2PAK_D2PAK-4-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-4_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-4_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-N-CH-D2PAK_D2PAK-4-NOSILK_0_0"
@@ -4804,266 +4934,6 @@
 		)
 	)
 
-	(symbol "FET-N-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-		(property "Reference" "Q" (id 0) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "Value" "FET-N-CH-D2PAK_D2PAK-3" (id 1) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "ki_fp_filters" "D2PAK/TO-263-3 " (id 4) (at 0 0 0)
-			(effects (font (size 1.27 1.27)) hide)
-		)
-		(symbol "FET-N-CH-D2PAK_D2PAK-3_0_0"
-			(text "G" (at -7.62 -1.016 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "D" (at 5.08 4.318 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "S" (at 5.08 -5.08 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "N-CH" (at -1.905 3.81 0)
-				(effects (font (size 1.016 0.86868)) (justify left bottom))
-			)
-		)
-		(symbol "FET-N-CH-D2PAK_D2PAK-3_0_1"
-			(polyline
-				(pts
-					(xy -0.254 0)
-					(xy 0.762 1.016)
-					(xy 0.762 -1.016)
-					(xy -0.254 0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy 3.048 -0.508)
-					(xy 5.08 -0.508)
-					(xy 4.064 0.508)
-					(xy 3.048 -0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy -2.54 -2.54)
-					(xy -2.54 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy -1.27 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 2.54 0.0)
-					(xy -1.27 0.0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.54)
-					(xy -1.27 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 3.302)
-					(xy -1.27 1.778)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 0.762)
-					(xy -1.27 -0.762)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 -1.778)
-					(xy -1.27 -3.302)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 4.064 -2.54)
-					(xy 4.064 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 3.048 0.508)
-					(xy 5.08 0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(circle (center 0 0) (radius 5.6796125)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-		)
-		(symbol "FET-N-CH-D2PAK_D2PAK-3_1_1"
-			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
-				(name "GATE" (effects (font (size 1.27 1.08585))))
-				(number "P$1" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$3" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$4" (effects (font (size 1.27 1.08585))))
-			)
-		)
-	)
-
-	(symbol "FET-N-CH-DPAK_DPAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-		(property "Reference" "Q" (id 0) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "Value" "FET-N-CH-DPAK_DPAK-3" (id 1) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "ki_fp_filters" "DPAK/TO-252-3 " (id 4) (at 0 0 0)
-			(effects (font (size 1.27 1.27)) hide)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3_0_0"
-			(text "G" (at -7.62 -1.016 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "D" (at 5.08 4.318 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "S" (at 5.08 -5.08 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "N-CH" (at -1.905 3.81 0)
-				(effects (font (size 1.016 0.86868)) (justify left bottom))
-			)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3_0_1"
-			(polyline
-				(pts
-					(xy -0.254 0)
-					(xy 0.762 1.016)
-					(xy 0.762 -1.016)
-					(xy -0.254 0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy 3.048 -0.508)
-					(xy 5.08 -0.508)
-					(xy 4.064 0.508)
-					(xy 3.048 -0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy -2.54 -2.54)
-					(xy -2.54 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy -1.27 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 2.54 0.0)
-					(xy -1.27 0.0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.54)
-					(xy -1.27 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 3.302)
-					(xy -1.27 1.778)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 0.762)
-					(xy -1.27 -0.762)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 -1.778)
-					(xy -1.27 -3.302)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 4.064 -2.54)
-					(xy 4.064 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 3.048 0.508)
-					(xy 5.08 0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(circle (center 0 0) (radius 5.6796125)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3_1_1"
-			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
-				(name "GATE" (effects (font (size 1.27 1.08585))))
-				(number "P$1" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$3" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$4" (effects (font (size 1.27 1.08585))))
-			)
-		)
-	)
-
 	(symbol "FET-N-CH-DPAK_DPAK-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -5071,7 +4941,7 @@
 		(property "Value" "FET-N-CH-DPAK_DPAK-4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-4 " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-4 " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-N-CH-DPAK_DPAK-4_0_0"
@@ -5198,6 +5068,266 @@
 		)
 	)
 
+	(symbol "FET-N-CH-DPAK_DPAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+		(property "Reference" "Q" (id 0) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "Value" "FET-N-CH-DPAK_DPAK-3" (id 1) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "ki_fp_filters" "DPAK_TO-252-3 " (id 4) (at 0 0 0)
+			(effects (font (size 1.27 1.27)) hide)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3_0_0"
+			(text "G" (at -7.62 -1.016 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "D" (at 5.08 4.318 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "S" (at 5.08 -5.08 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "N-CH" (at -1.905 3.81 0)
+				(effects (font (size 1.016 0.86868)) (justify left bottom))
+			)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3_0_1"
+			(polyline
+				(pts
+					(xy -0.254 0)
+					(xy 0.762 1.016)
+					(xy 0.762 -1.016)
+					(xy -0.254 0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy 3.048 -0.508)
+					(xy 5.08 -0.508)
+					(xy 4.064 0.508)
+					(xy 3.048 -0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54)
+					(xy -2.54 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy -1.27 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 2.54 0.0)
+					(xy -1.27 0.0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54)
+					(xy -1.27 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.302)
+					(xy -1.27 1.778)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 0.762)
+					(xy -1.27 -0.762)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778)
+					(xy -1.27 -3.302)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 4.064 -2.54)
+					(xy 4.064 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 3.048 0.508)
+					(xy 5.08 0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(circle (center 0 0) (radius 5.6796125)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3_1_1"
+			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
+				(name "GATE" (effects (font (size 1.27 1.08585))))
+				(number "P$1" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$3" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$4" (effects (font (size 1.27 1.08585))))
+			)
+		)
+	)
+
+	(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+		(property "Reference" "Q" (id 0) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "Value" "FET-N-CH-DPAK_DPAK-3-NOSILK" (id 1) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "ki_fp_filters" "DPAK_TO-252-3_NOSILK " (id 4) (at 0 0 0)
+			(effects (font (size 1.27 1.27)) hide)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_0_0"
+			(text "G" (at -7.62 -1.016 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "D" (at 5.08 4.318 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "S" (at 5.08 -5.08 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "N-CH" (at -1.905 3.81 0)
+				(effects (font (size 1.016 0.86868)) (justify left bottom))
+			)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_0_1"
+			(polyline
+				(pts
+					(xy -0.254 0)
+					(xy 0.762 1.016)
+					(xy 0.762 -1.016)
+					(xy -0.254 0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy 3.048 -0.508)
+					(xy 5.08 -0.508)
+					(xy 4.064 0.508)
+					(xy 3.048 -0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54)
+					(xy -2.54 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy -1.27 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 2.54 0.0)
+					(xy -1.27 0.0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54)
+					(xy -1.27 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.302)
+					(xy -1.27 1.778)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 0.762)
+					(xy -1.27 -0.762)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778)
+					(xy -1.27 -3.302)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54)
+					(xy 4.064 -2.54)
+					(xy 4.064 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 3.048 0.508)
+					(xy 5.08 0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(circle (center 0 0) (radius 5.6796125)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+		)
+		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_1_1"
+			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
+				(name "GATE" (effects (font (size 1.27 1.08585))))
+				(number "P$1" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$3" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$4" (effects (font (size 1.27 1.08585))))
+			)
+		)
+	)
+
 	(symbol "FET-N-CH-DPAK_DPAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -5205,7 +5335,7 @@
 		(property "Value" "FET-N-CH-DPAK_DPAK-4-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-4_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-4_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-N-CH-DPAK_DPAK-4-NOSILK_0_0"
@@ -5332,272 +5462,6 @@
 		)
 	)
 
-	(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-		(property "Reference" "Q" (id 0) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "Value" "FET-N-CH-DPAK_DPAK-3-NOSILK" (id 1) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "ki_fp_filters" "DPAK/TO-252-3_NOSILK " (id 4) (at 0 0 0)
-			(effects (font (size 1.27 1.27)) hide)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_0_0"
-			(text "G" (at -7.62 -1.016 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "D" (at 5.08 4.318 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "S" (at 5.08 -5.08 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "N-CH" (at -1.905 3.81 0)
-				(effects (font (size 1.016 0.86868)) (justify left bottom))
-			)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_0_1"
-			(polyline
-				(pts
-					(xy -0.254 0)
-					(xy 0.762 1.016)
-					(xy 0.762 -1.016)
-					(xy -0.254 0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy 3.048 -0.508)
-					(xy 5.08 -0.508)
-					(xy 4.064 0.508)
-					(xy 3.048 -0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy -2.54 -2.54)
-					(xy -2.54 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy -1.27 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 2.54 0.0)
-					(xy -1.27 0.0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.54)
-					(xy -1.27 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 3.302)
-					(xy -1.27 1.778)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 0.762)
-					(xy -1.27 -0.762)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 -1.778)
-					(xy -1.27 -3.302)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54)
-					(xy 4.064 -2.54)
-					(xy 4.064 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 3.048 0.508)
-					(xy 5.08 0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(circle (center 0 0) (radius 5.6796125)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-		)
-		(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK_1_1"
-			(pin bidirectional line (at -7.62 -2.54 0) (length 5.08)
-				(name "GATE" (effects (font (size 1.27 1.08585))))
-				(number "P$1" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$3" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$4" (effects (font (size 1.27 1.08585))))
-			)
-		)
-	)
-
-	(symbol "FET-P-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-		(property "Reference" "Q" (id 0) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "Value" "FET-P-CH-D2PAK_D2PAK-3" (id 1) (at 0 0 0)
-			(effects (font (size 1.27 1.08585)))
-		)
-		(property "ki_fp_filters" "D2PAK/TO-263-3 " (id 4) (at 0 0 0)
-			(effects (font (size 1.27 1.27)) hide)
-		)
-		(symbol "FET-P-CH-D2PAK_D2PAK-3_0_0"
-			(text "G" (at -7.62 -1.016 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "D" (at 5.08 4.318 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "S" (at 5.08 -5.08 0)
-				(effects (font (size 1.27 1.08585)) (justify left bottom))
-			)
-			(text "P-CH" (at -1.905 3.81 0)
-				(effects (font (size 1.016 0.86868)) (justify left bottom))
-			)
-		)
-		(symbol "FET-P-CH-D2PAK_D2PAK-3_0_1"
-			(polyline
-				(pts
-					(xy 0.762 0)
-					(xy -0.254 1.016)
-					(xy -0.254 -1.016)
-					(xy 0.762 0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy 3.048 0.508)
-					(xy 5.08 0.508)
-					(xy 4.064 -0.508)
-					(xy 3.048 0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-				(fill (type outline))
-			)
-			(polyline
-				(pts
-					(xy -2.54 -2.54)
-					(xy -2.54 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 -2.54)
-					(xy 2.54 -2.54)
-					(xy -1.27 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 0.0)
-					(xy -1.27 0.0)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.54)
-					(xy -1.27 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 3.302)
-					(xy -1.27 1.778)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 0.762)
-					(xy -1.27 -0.762)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy -1.27 -1.778)
-					(xy -1.27 -3.302)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 4.064 -2.54)
-					(xy 4.064 2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 3.048 -0.508)
-					(xy 5.08 -0.508)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(polyline
-				(pts
-					(xy 2.54 0.0)
-					(xy 2.54 -2.54)
-				)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-			(circle (center 0 0) (radius 5.6796125)
-				(stroke (width 0.1524) (type default) (color 0 0 0 0))
-			)
-		)
-		(symbol "FET-P-CH-D2PAK_D2PAK-3_1_1"
-			(pin bidirectional line (at -7.62 2.54 0) (length 5.08)
-				(name "GATE" (effects (font (size 1.27 1.08585))))
-				(number "P$1" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
-				(name "SOURCE" (effects (font (size 1.27 1.08585))))
-				(number "P$3" (effects (font (size 1.27 1.08585))))
-			)
-			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
-				(name "DRAIN" (effects (font (size 1.27 1.08585))))
-				(number "P$4" (effects (font (size 1.27 1.08585))))
-			)
-		)
-	)
-
 	(symbol "FET-P-CH-D2PAK_D2PAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -5605,7 +5469,7 @@
 		(property "Value" "FET-P-CH-D2PAK_D2PAK-3-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-3_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-3_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-D2PAK_D2PAK-3-NOSILK_0_0"
@@ -5741,7 +5605,7 @@
 		(property "Value" "FET-P-CH-D2PAK_D2PAK-4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-4 " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-4 " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-D2PAK_D2PAK-4_0_0"
@@ -5874,6 +5738,142 @@
 		)
 	)
 
+	(symbol "FET-P-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+		(property "Reference" "Q" (id 0) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "Value" "FET-P-CH-D2PAK_D2PAK-3" (id 1) (at 0 0 0)
+			(effects (font (size 1.27 1.08585)))
+		)
+		(property "ki_fp_filters" "D2PAK_TO-263-3 " (id 4) (at 0 0 0)
+			(effects (font (size 1.27 1.27)) hide)
+		)
+		(symbol "FET-P-CH-D2PAK_D2PAK-3_0_0"
+			(text "G" (at -7.62 -1.016 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "D" (at 5.08 4.318 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "S" (at 5.08 -5.08 0)
+				(effects (font (size 1.27 1.08585)) (justify left bottom))
+			)
+			(text "P-CH" (at -1.905 3.81 0)
+				(effects (font (size 1.016 0.86868)) (justify left bottom))
+			)
+		)
+		(symbol "FET-P-CH-D2PAK_D2PAK-3_0_1"
+			(polyline
+				(pts
+					(xy 0.762 0)
+					(xy -0.254 1.016)
+					(xy -0.254 -1.016)
+					(xy 0.762 0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy 3.048 0.508)
+					(xy 5.08 0.508)
+					(xy 4.064 -0.508)
+					(xy 3.048 0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+				(fill (type outline))
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54)
+					(xy -2.54 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 -2.54)
+					(xy 2.54 -2.54)
+					(xy -1.27 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 0.0)
+					(xy -1.27 0.0)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54)
+					(xy -1.27 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.302)
+					(xy -1.27 1.778)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 0.762)
+					(xy -1.27 -0.762)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778)
+					(xy -1.27 -3.302)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 4.064 -2.54)
+					(xy 4.064 2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 3.048 -0.508)
+					(xy 5.08 -0.508)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(polyline
+				(pts
+					(xy 2.54 0.0)
+					(xy 2.54 -2.54)
+				)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+			(circle (center 0 0) (radius 5.6796125)
+				(stroke (width 0.1524) (type default) (color 0 0 0 0))
+			)
+		)
+		(symbol "FET-P-CH-D2PAK_D2PAK-3_1_1"
+			(pin bidirectional line (at -7.62 2.54 0) (length 5.08)
+				(name "GATE" (effects (font (size 1.27 1.08585))))
+				(number "P$1" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 -7.62 90) (length 5.08)
+				(name "SOURCE" (effects (font (size 1.27 1.08585))))
+				(number "P$3" (effects (font (size 1.27 1.08585))))
+			)
+			(pin bidirectional line (at 2.54 7.62 270) (length 5.08)
+				(name "DRAIN" (effects (font (size 1.27 1.08585))))
+				(number "P$4" (effects (font (size 1.27 1.08585))))
+			)
+		)
+	)
+
 	(symbol "FET-P-CH-D2PAK_D2PAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
@@ -5881,7 +5881,7 @@
 		(property "Value" "FET-P-CH-D2PAK_D2PAK-4-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "D2PAK/TO-263-4_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "D2PAK_TO-263-4_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-D2PAK_D2PAK-4-NOSILK_0_0"
@@ -6021,7 +6021,7 @@
 		(property "Value" "FET-P-CH-DPAK_DPAK-3" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-3 " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-3 " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-DPAK_DPAK-3_0_0"
@@ -6157,7 +6157,7 @@
 		(property "Value" "FET-P-CH-DPAK_DPAK-4-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-4_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-4_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-DPAK_DPAK-4-NOSILK_0_0"
@@ -6297,7 +6297,7 @@
 		(property "Value" "FET-P-CH-DPAK_DPAK-3-NOSILK" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-3_NOSILK " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-3_NOSILK " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-DPAK_DPAK-3-NOSILK_0_0"
@@ -6433,7 +6433,7 @@
 		(property "Value" "FET-P-CH-DPAK_DPAK-4" (id 1) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
-		(property "ki_fp_filters" "DPAK/TO-252-4 " (id 4) (at 0 0 0)
+		(property "ki_fp_filters" "DPAK_TO-252-4 " (id 4) (at 0 0 0)
 			(effects (font (size 1.27 1.27)) hide)
 		)
 		(symbol "FET-P-CH-DPAK_DPAK-4_0_0"
