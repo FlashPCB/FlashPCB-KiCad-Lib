@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "FDD8424H" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FDD8424H" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -277,7 +277,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -434,7 +434,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-8-POWER-TDFN_8-POWERTDFN-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -591,7 +591,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-TDFN_5-LEAD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-8-POWER-TDFN_5-LEAD" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -748,7 +748,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-TDFN_5-LEAD-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-8-POWER-TDFN_5-LEAD-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -905,7 +905,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-8-POWER-WDFN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-8-POWER-WDFN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1062,7 +1062,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-323" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-323" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1195,7 +1195,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-523" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-523" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1328,7 +1328,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-723" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-723" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1461,7 +1461,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-23-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-23-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1594,7 +1594,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-883" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-883" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1727,7 +1727,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-SOT-223-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-SOT-223-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1864,7 +1864,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-323" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-323" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2003,7 +2003,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-523" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-523" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2142,7 +2142,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-723" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-723" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2281,7 +2281,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-23-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-23-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2420,7 +2420,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-883" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-883" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2559,7 +2559,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-SOT-223-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-SOT-223-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2702,7 +2702,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-D2PAK_D2PAK-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2835,7 +2835,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-D2PAK_D2PAK-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-D2PAK_D2PAK-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2972,7 +2972,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-D2PAK_D2PAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-D2PAK_D2PAK-3-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3105,7 +3105,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-D2PAK_D2PAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-D2PAK_D2PAK-4-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3242,7 +3242,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-DPAK_DPAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-DPAK_DPAK-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3375,7 +3375,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-DPAK_DPAK-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-DPAK_DPAK-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3512,7 +3512,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-DPAK_DPAK-3-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3645,7 +3645,7 @@
 		)
 	)
 
-	(symbol "FET-N-CH-DPAK_DPAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-N-CH-DPAK_DPAK-4-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3782,7 +3782,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-D2PAK_D2PAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-D2PAK_D2PAK-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3921,7 +3921,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-D2PAK_D2PAK-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-D2PAK_D2PAK-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4064,7 +4064,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-D2PAK_D2PAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-D2PAK_D2PAK-3-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4203,7 +4203,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-D2PAK_D2PAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-D2PAK_D2PAK-4-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4346,7 +4346,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-DPAK_DPAK-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-DPAK_DPAK-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4485,7 +4485,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-DPAK_DPAK-4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-DPAK_DPAK-4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4628,7 +4628,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-DPAK_DPAK-3-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-DPAK_DPAK-3-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4767,7 +4767,7 @@
 		)
 	)
 
-	(symbol "FET-P-CH-DPAK_DPAK-4-NOSILK" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FET-P-CH-DPAK_DPAK-4-NOSILK" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "Q" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

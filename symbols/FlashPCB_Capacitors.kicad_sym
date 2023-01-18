@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "CAP-4PACK-0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-4PACK-0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -182,7 +182,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-4MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-4MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -239,7 +239,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-5MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-5MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -296,7 +296,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-6.3MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-6.3MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -353,7 +353,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-8MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-8MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -410,7 +410,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-10MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-10MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -467,7 +467,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-12.5MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-12.5MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -524,7 +524,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-16MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-16MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -581,7 +581,7 @@
 		)
 	)
 
-	(symbol "CAP-ALUM-18MM-DIA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-ALUM-18MM-DIA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -638,7 +638,7 @@
 		)
 	)
 
-	(symbol "CAP-CERAMIC-0402" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-CERAMIC-0402" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -697,7 +697,7 @@
 		)
 	)
 
-	(symbol "CAP-CERAMIC-0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-CERAMIC-0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -756,7 +756,7 @@
 		)
 	)
 
-	(symbol "CAP-CERAMIC-0805" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-CERAMIC-0805" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -815,7 +815,7 @@
 		)
 	)
 
-	(symbol "CAP-CERAMIC-1206" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-CERAMIC-1206" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -874,7 +874,7 @@
 		)
 	)
 
-	(symbol "CAP-CERAMIC-1210" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-CERAMIC-1210" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -933,7 +933,7 @@
 		)
 	)
 
-	(symbol "CAP-TANTALUM-EIA-3216" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-TANTALUM-EIA-3216" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -990,7 +990,7 @@
 		)
 	)
 
-	(symbol "CAP-TANTALUM-EIA-3528" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-TANTALUM-EIA-3528" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1047,7 +1047,7 @@
 		)
 	)
 
-	(symbol "CAP-TANTALUM-EIA-6032" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-TANTALUM-EIA-6032" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1104,7 +1104,7 @@
 		)
 	)
 
-	(symbol "CAP-TANTALUM-EIA-7343" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-TANTALUM-EIA-7343" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1161,7 +1161,7 @@
 		)
 	)
 
-	(symbol "CAP-TANTALUM-EIA-7360" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CAP-TANTALUM-EIA-7360" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "C" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

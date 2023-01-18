@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "SWITCH-TACT-EVQ" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-EVQ" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -65,7 +65,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-EVQ-G" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-EVQ-G" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -135,7 +135,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-FSMCT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-FSMCT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -201,7 +201,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-KMR2" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-KMR2" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -267,7 +267,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-KMR2-G" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-KMR2-G" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -337,7 +337,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-PTS645_SMT-G" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-PTS645_SMT-G" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -403,7 +403,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-PTS645_SMT-J" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-PTS645_SMT-J" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -469,7 +469,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-PTS645_" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-PTS645_" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -535,7 +535,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-PTS645-G_THT-T" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-PTS645-G_THT-T" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -605,7 +605,7 @@
 		)
 	)
 
-	(symbol "SWITCH-TACT-PTS645-G_THT-V" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-TACT-PTS645-G_THT-V" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -671,7 +671,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-SMT-VERT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-SMT-VERT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -720,7 +720,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-SMT-VERT_CUS-22B" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-SMT-VERT_CUS-22B" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -818,7 +818,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-SMT-VERT_JS202011JCQN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-SMT-VERT_JS202011JCQN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -916,7 +916,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-SMT-VERT_JS202011SCQN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-SMT-VERT_JS202011SCQN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1014,7 +1014,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-SMT-RA_CUS-12B" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-SMT-RA_CUS-12B" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1063,7 +1063,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-SMT-RA_EG1215" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-SMT-RA_EG1215" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1112,7 +1112,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-SMT-RA_JS102011JAQN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-SMT-RA_JS102011JAQN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1173,7 +1173,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-SMT-RA_JS102011SAQN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-SMT-RA_JS102011SAQN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1222,7 +1222,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-SMT-RA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-SMT-RA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1320,7 +1320,7 @@
 		)
 	)
 
-	(symbol "SWITCH-SPDT-THT-VERT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-SPDT-THT-VERT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1369,7 +1369,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-THT-VERT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-THT-VERT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1467,7 +1467,7 @@
 		)
 	)
 
-	(symbol "SWITCH-DPDT-THT-RA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SWITCH-DPDT-THT-RA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

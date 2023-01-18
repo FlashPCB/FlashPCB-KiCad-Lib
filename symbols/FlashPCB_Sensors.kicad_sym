@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "TC1047AVNBTR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TC1047AVNBTR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -42,7 +42,7 @@
 		)
 	)
 
-	(symbol "ADXL34X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ADXL34X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -132,7 +132,7 @@
 		)
 	)
 
-	(symbol "ADXL326" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ADXL326" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -206,7 +206,7 @@
 		)
 	)
 
-	(symbol "ADXL335" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ADXL335" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -280,7 +280,7 @@
 		)
 	)
 
-	(symbol "BH1750FVI" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "BH1750FVI" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -338,7 +338,7 @@
 		)
 	)
 
-	(symbol "BME68X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "BME68X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -404,7 +404,7 @@
 		)
 	)
 
-	(symbol "MPL115A2-12C" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MPL115A2-12C" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -467,7 +467,7 @@
 		)
 	)
 
-	(symbol "MPR121" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MPR121" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -581,7 +581,7 @@
 		)
 	)
 
-	(symbol "MPU-6050" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MPU-6050" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -667,7 +667,7 @@
 		)
 	)
 
-	(symbol "TSL2591" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TSL2591" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -725,7 +725,7 @@
 		)
 	)
 
-	(symbol "VL53L0X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VL53L0X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -807,7 +807,7 @@
 		)
 	)
 
-	(symbol "VL53L1X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VL53L1X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -889,7 +889,7 @@
 		)
 	)
 
-	(symbol "VL6180X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VL6180X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "S" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -955,7 +955,7 @@
 		)
 	)
 
-	(symbol "VCNL4040" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VCNL4040" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1021,7 +1021,7 @@
 		)
 	)
 
-	(symbol "INA219" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INA219" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1084,7 +1084,7 @@
 		)
 	)
 
-	(symbol "INA169" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INA169" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1135,7 +1135,7 @@
 		)
 	)
 
-	(symbol "TMCS1107" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TMCS1107" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1201,7 +1201,7 @@
 		)
 	)
 
-	(symbol "TMCS1101" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TMCS1101" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1267,7 +1267,7 @@
 		)
 	)
 
-	(symbol "TMCS1100" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TMCS1100" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1330,7 +1330,7 @@
 		)
 	)
 
-	(symbol "ACS723" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ACS723" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1393,7 +1393,7 @@
 		)
 	)
 
-	(symbol "INA260" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INA260" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

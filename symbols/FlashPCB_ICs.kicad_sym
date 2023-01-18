@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "TRINAMIC-TMC262" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TRINAMIC-TMC262" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -165,7 +165,7 @@
 		)
 	)
 
-	(symbol "APA102_-2020" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "APA102_-2020" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -400,7 +400,7 @@
 		)
 	)
 
-	(symbol "APA102_-5050" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "APA102_-5050" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -635,7 +635,7 @@
 		)
 	)
 
-	(symbol "SK6812_5050" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SK6812_5050" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -682,7 +682,7 @@
 		)
 	)
 
-	(symbol "SK6812_3535" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SK6812_3535" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -729,7 +729,7 @@
 		)
 	)
 
-	(symbol "MCP9600" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MCP9600" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -847,7 +847,7 @@
 		)
 	)
 
-	(symbol "MAX31856" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MAX31856" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -937,7 +937,7 @@
 		)
 	)
 
-	(symbol "MAX446X-5" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MAX446X-5" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -994,7 +994,7 @@
 		)
 	)
 
-	(symbol "74X4020-14BIT-COUNTER" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "74X4020-14BIT-COUNTER" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1092,7 +1092,7 @@
 		)
 	)
 
-	(symbol "555-TIMER" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "555-TIMER" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1158,7 +1158,7 @@
 		)
 	)
 
-	(symbol "ATSAMD10D14A-MUT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ATSAMD10D14A-MUT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1288,7 +1288,7 @@
 		)
 	)
 
-	(symbol "ATMEGA32U4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ATMEGA32U4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1499,7 +1499,7 @@
 		)
 	)
 
-	(symbol "ATMEGA328P-AUR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ATMEGA328P-AUR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1658,7 +1658,7 @@
 		)
 	)
 
-	(symbol "FT231X" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FT231X" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1772,7 +1772,7 @@
 		)
 	)
 
-	(symbol "VOLTAGE-REG-SOT-23-5-PWRGD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VOLTAGE-REG-SOT-23-5-PWRGD" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1823,7 +1823,7 @@
 		)
 	)
 
-	(symbol "VOLTAGE-REG-4-X2SON" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VOLTAGE-REG-4-X2SON" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1874,7 +1874,7 @@
 		)
 	)
 
-	(symbol "VOLTAGE-REG-SOT-23-3-L" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VOLTAGE-REG-SOT-23-3-L" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1917,7 +1917,7 @@
 		)
 	)
 
-	(symbol "VOLTAGE-REG-SOT-23-5" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VOLTAGE-REG-SOT-23-5" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1968,7 +1968,7 @@
 		)
 	)
 
-	(symbol "VOLTAGE-REG-SOT-23-3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VOLTAGE-REG-SOT-23-3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2011,7 +2011,7 @@
 		)
 	)
 
-	(symbol "TI-CC2640R2L" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TI-CC2640R2L" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2174,7 +2174,7 @@
 		)
 	)
 
-	(symbol "STEP_UP_CONTROLLER_6PIN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "STEP_UP_CONTROLLER_6PIN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

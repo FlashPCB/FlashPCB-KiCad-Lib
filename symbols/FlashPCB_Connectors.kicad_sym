@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "HEADER-RA-SHROUD-002POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-002POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -38,7 +38,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-003POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-003POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -81,7 +81,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-004POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-004POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -128,7 +128,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-005POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-005POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -179,7 +179,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-006POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-006POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -234,7 +234,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-007POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-007POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -293,7 +293,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-008POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-008POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -356,7 +356,7 @@
 		)
 	)
 
-	(symbol "HEADER-RA-SHROUD-009POS-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-RA-SHROUD-009POS-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -423,7 +423,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-B" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-B" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -481,7 +481,7 @@
 		)
 	)
 
-	(symbol "USB-MICRO-B" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-MICRO-B" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -559,7 +559,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-04POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-04POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -634,7 +634,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-05POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-05POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -713,7 +713,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-06POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-06POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -796,7 +796,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-07POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-07POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -883,7 +883,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-08POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-08POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -974,7 +974,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-09POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-09POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1069,7 +1069,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-10POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-10POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1168,7 +1168,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-11POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-11POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1271,7 +1271,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-12POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-12POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1378,7 +1378,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-14POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-14POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1493,7 +1493,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-16POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-16POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1616,7 +1616,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-18POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-18POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1747,7 +1747,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-20POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-20POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1886,7 +1886,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-22POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-22POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2033,7 +2033,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-24POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-24POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2188,7 +2188,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-26POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-26POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2351,7 +2351,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-28POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-28POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2522,7 +2522,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-RA-30POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-RA-30POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2701,7 +2701,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-05POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-05POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2801,7 +2801,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-06POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-06POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2909,7 +2909,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-07POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-07POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3025,7 +3025,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-08POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-08POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3149,7 +3149,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-09POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-09POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3281,7 +3281,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-10POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-10POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3421,7 +3421,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-11POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-11POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3569,7 +3569,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-12POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-12POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3725,7 +3725,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-14POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-14POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3897,7 +3897,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-16POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-16POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4085,7 +4085,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-18POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-18POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4289,7 +4289,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-20POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-20POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4509,7 +4509,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-22POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-22POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4745,7 +4745,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-24POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-24POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -4997,7 +4997,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-26POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-26POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -5265,7 +5265,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-29POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-29POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -5557,7 +5557,7 @@
 		)
 	)
 
-	(symbol "FLAT-FLEX-CONNECTOR-VERT-30POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FLAT-FLEX-CONNECTOR-VERT-30POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -5857,7 +5857,7 @@
 		)
 	)
 
-	(symbol "SMA-CONNECTOR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SMA-CONNECTOR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -5929,7 +5929,7 @@
 		)
 	)
 
-	(symbol "U.FL-CONNECTOR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "U.FL-CONNECTOR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -5993,7 +5993,7 @@
 		)
 	)
 
-	(symbol "JST-SH-2CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-2CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6032,7 +6032,7 @@
 		)
 	)
 
-	(symbol "JST-SH-3CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-3CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6075,7 +6075,7 @@
 		)
 	)
 
-	(symbol "JST-SH-4CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-4CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6122,7 +6122,7 @@
 		)
 	)
 
-	(symbol "JST-SH-5CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-5CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6173,7 +6173,7 @@
 		)
 	)
 
-	(symbol "JST-SH-6CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-6CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6228,7 +6228,7 @@
 		)
 	)
 
-	(symbol "JST-SH-7CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-7CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6287,7 +6287,7 @@
 		)
 	)
 
-	(symbol "JST-SH-8CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-8CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6350,7 +6350,7 @@
 		)
 	)
 
-	(symbol "JST-SH-9CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-9CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6417,7 +6417,7 @@
 		)
 	)
 
-	(symbol "JST-SH-10CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-10CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6488,7 +6488,7 @@
 		)
 	)
 
-	(symbol "JST-SH-11CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-11CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6563,7 +6563,7 @@
 		)
 	)
 
-	(symbol "JST-SH-12CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-12CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6642,7 +6642,7 @@
 		)
 	)
 
-	(symbol "JST-SH-13CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-13CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6725,7 +6725,7 @@
 		)
 	)
 
-	(symbol "JST-SH-14CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-14CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6812,7 +6812,7 @@
 		)
 	)
 
-	(symbol "JST-SH-15CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-15CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -6903,7 +6903,7 @@
 		)
 	)
 
-	(symbol "JST-SH-20CH-1.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SH-20CH-1.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7014,7 +7014,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-2CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-2CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7053,7 +7053,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-3CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-3CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7096,7 +7096,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-4CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-4CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7143,7 +7143,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-5CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-5CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7194,7 +7194,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-6CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-6CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7249,7 +7249,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-7CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-7CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7308,7 +7308,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-8CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-8CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7371,7 +7371,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-9CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-9CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7438,7 +7438,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-10CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-10CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7509,7 +7509,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-11CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-11CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7584,7 +7584,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-12CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-12CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7663,7 +7663,7 @@
 		)
 	)
 
-	(symbol "JST-ZH-13CH-1.5MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-ZH-13CH-1.5MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7746,7 +7746,7 @@
 		)
 	)
 
-	(symbol "JST-PH-2CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-2CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7785,7 +7785,7 @@
 		)
 	)
 
-	(symbol "JST-PH-3CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-3CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7828,7 +7828,7 @@
 		)
 	)
 
-	(symbol "JST-PH-4CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-4CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7875,7 +7875,7 @@
 		)
 	)
 
-	(symbol "JST-PH-5CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-5CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7926,7 +7926,7 @@
 		)
 	)
 
-	(symbol "JST-PH-6CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-6CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -7981,7 +7981,7 @@
 		)
 	)
 
-	(symbol "JST-PH-7CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-7CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8040,7 +8040,7 @@
 		)
 	)
 
-	(symbol "JST-PH-8CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-8CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8103,7 +8103,7 @@
 		)
 	)
 
-	(symbol "JST-PH-9CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-9CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8170,7 +8170,7 @@
 		)
 	)
 
-	(symbol "JST-PH-10CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-10CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8241,7 +8241,7 @@
 		)
 	)
 
-	(symbol "JST-PH-11CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-11CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8316,7 +8316,7 @@
 		)
 	)
 
-	(symbol "JST-PH-12CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-12CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8395,7 +8395,7 @@
 		)
 	)
 
-	(symbol "JST-PH-13CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-13CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8478,7 +8478,7 @@
 		)
 	)
 
-	(symbol "JST-PH-14CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-14CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8565,7 +8565,7 @@
 		)
 	)
 
-	(symbol "JST-PH-15CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-15CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8656,7 +8656,7 @@
 		)
 	)
 
-	(symbol "JST-PH-16CH-2.0MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-PH-16CH-2.0MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8751,7 +8751,7 @@
 		)
 	)
 
-	(symbol "JST-VH-2CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-2CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8790,7 +8790,7 @@
 		)
 	)
 
-	(symbol "JST-VH-3CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-3CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8833,7 +8833,7 @@
 		)
 	)
 
-	(symbol "JST-VH-4CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-4CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8880,7 +8880,7 @@
 		)
 	)
 
-	(symbol "JST-VH-5CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-5CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8931,7 +8931,7 @@
 		)
 	)
 
-	(symbol "JST-VH-6CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-6CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -8986,7 +8986,7 @@
 		)
 	)
 
-	(symbol "JST-VH-7CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-7CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9045,7 +9045,7 @@
 		)
 	)
 
-	(symbol "JST-VH-8CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-8CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9108,7 +9108,7 @@
 		)
 	)
 
-	(symbol "JST-VH-9CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-9CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9175,7 +9175,7 @@
 		)
 	)
 
-	(symbol "JST-VH-10CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-10CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9246,7 +9246,7 @@
 		)
 	)
 
-	(symbol "JST-VH-11CH-3.96MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-VH-11CH-3.96MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9321,7 +9321,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-2CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-2CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9360,7 +9360,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-3CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-3CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9403,7 +9403,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-4CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-4CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9450,7 +9450,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-5CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-5CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9501,7 +9501,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-6CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-6CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9556,7 +9556,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-7CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-7CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9615,7 +9615,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-8CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-8CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9678,7 +9678,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-9CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-9CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9745,7 +9745,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-10CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-10CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9816,7 +9816,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-11CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-11CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9891,7 +9891,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-12CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-12CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -9970,7 +9970,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-13CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-13CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10053,7 +10053,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-14CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-14CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10140,7 +10140,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-15CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-15CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10231,7 +10231,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-16CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-16CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10326,7 +10326,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-17CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-17CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10425,7 +10425,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-18CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-18CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10528,7 +10528,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-19CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-19CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10635,7 +10635,7 @@
 		)
 	)
 
-	(symbol "JST-SWR25X-20CH-2.54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "JST-SWR25X-20CH-2.54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10746,7 +10746,7 @@
 		)
 	)
 
-	(symbol "USB-C_IPX8-WTRPRF" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-C_IPX8-WTRPRF" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -10894,7 +10894,7 @@
 		)
 	)
 
-	(symbol "USB-C_VERT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-C_VERT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11050,7 +11050,7 @@
 		)
 	)
 
-	(symbol "USB-C_CUTOUT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-C_CUTOUT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11206,7 +11206,7 @@
 		)
 	)
 
-	(symbol "USB-C_RA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-C_RA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11362,7 +11362,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A_THT-VERT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A_THT-VERT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11420,7 +11420,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A_THT-RA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A_THT-RA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11478,7 +11478,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A_SMT-RA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A_SMT-RA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11536,7 +11536,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A_THT-RA-VERT-CONN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A_THT-RA-VERT-CONN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11602,7 +11602,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-3.0_RA-THT-EDGE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-3.0_RA-THT-EDGE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11688,7 +11688,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-3.0_RA-SMT-EDGE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-3.0_RA-SMT-EDGE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11774,7 +11774,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-3.0_VERT-THT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-3.0_VERT-THT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11852,7 +11852,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-3.0_RA-SMT-PLUG" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-3.0_RA-SMT-PLUG" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -11930,7 +11930,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-3.0_TA-THT-VERT-CONN" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-3.0_TA-THT-VERT-CONN" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -12016,7 +12016,7 @@
 		)
 	)
 
-	(symbol "USB-TYPE-A-PLUG" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "USB-TYPE-A-PLUG" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -12077,7 +12077,7 @@
 		)
 	)
 
-	(symbol "RJ45-CONN-100BASE-T-POE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RJ45-CONN-100BASE-T-POE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -13394,7 +13394,7 @@
 		)
 	)
 
-	(symbol "RJ45-CONN-1000BASE-T-POE+" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RJ45-CONN-1000BASE-T-POE+" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -14675,7 +14675,7 @@
 		)
 	)
 
-	(symbol "RJ45-CONNECTOR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RJ45-CONNECTOR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -14816,7 +14816,7 @@
 		)
 	)
 
-	(symbol "RJ45-CONNECTOR-SHIELDED" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RJ45-CONNECTOR-SHIELDED" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -14973,7 +14973,7 @@
 		)
 	)
 
-	(symbol "CONNECTOR-2X050-BOARD-TO-BOARD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "CONNECTOR-2X050-BOARD-TO-BOARD" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -15404,7 +15404,7 @@
 		)
 	)
 
-	(symbol "SODIMM-200POS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "SODIMM-200POS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -16235,7 +16235,7 @@
 		)
 	)
 
-	(symbol "HDMI_" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HDMI_" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -16375,7 +16375,7 @@
 		)
 	)
 
-	(symbol "HDMI_MICRO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HDMI_MICRO" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -16515,7 +16515,7 @@
 		)
 	)
 
-	(symbol "DISPLAY-PORT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DISPLAY-PORT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -16672,7 +16672,7 @@
 		)
 	)
 
-	(symbol "VGA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "VGA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -16782,7 +16782,7 @@
 		)
 	)
 
-	(symbol "DVI-I" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DVI-I" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17296,7 +17296,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X001-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X001-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17331,7 +17331,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X002-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X002-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17370,7 +17370,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X003-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X003-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17413,7 +17413,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X004-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X004-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17460,7 +17460,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X005-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X005-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17511,7 +17511,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X006-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X006-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17566,7 +17566,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X007-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X007-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17625,7 +17625,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X008-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X008-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17688,7 +17688,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X009-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X009-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17755,7 +17755,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X010-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X010-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17826,7 +17826,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X011-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X011-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17901,7 +17901,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X012-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X012-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -17980,7 +17980,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X013-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X013-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18063,7 +18063,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X014-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X014-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18150,7 +18150,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X015-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X015-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18241,7 +18241,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X016-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X016-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18336,7 +18336,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X017-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X017-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18435,7 +18435,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X018-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X018-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18538,7 +18538,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X019-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X019-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18645,7 +18645,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X020-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X020-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18756,7 +18756,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X021-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X021-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18871,7 +18871,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X022-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X022-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -18990,7 +18990,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X023-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X023-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19113,7 +19113,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X024-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X024-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19240,7 +19240,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X025-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X025-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19371,7 +19371,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X026-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X026-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19506,7 +19506,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X027-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X027-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19645,7 +19645,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X028-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X028-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19788,7 +19788,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X029-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X029-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -19935,7 +19935,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X030-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X030-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20086,7 +20086,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X031-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X031-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20241,7 +20241,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X032-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X032-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20400,7 +20400,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X033-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X033-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20563,7 +20563,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X034-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X034-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20730,7 +20730,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X035-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X035-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -20901,7 +20901,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X036-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X036-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -21076,7 +21076,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X037-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X037-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -21255,7 +21255,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X038-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X038-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -21438,7 +21438,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X039-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X039-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -21625,7 +21625,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X040-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X040-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -21816,7 +21816,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X041-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X041-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -22011,7 +22011,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X042-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X042-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -22210,7 +22210,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X043-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X043-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -22413,7 +22413,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X044-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X044-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -22620,7 +22620,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X045-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X045-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -22831,7 +22831,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X046-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X046-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -23046,7 +23046,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X047-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X047-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -23265,7 +23265,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X048-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X048-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -23488,7 +23488,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X049-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X049-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -23715,7 +23715,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X050-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X050-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -23946,7 +23946,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X051-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X051-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -24181,7 +24181,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X052-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X052-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -24420,7 +24420,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X053-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X053-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -24663,7 +24663,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X054-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X054-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -24910,7 +24910,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X055-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X055-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -25161,7 +25161,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X056-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X056-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -25416,7 +25416,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X057-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X057-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -25675,7 +25675,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X058-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X058-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -25938,7 +25938,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X059-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X059-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -26205,7 +26205,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X060-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X060-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -26476,7 +26476,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X061-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X061-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -26751,7 +26751,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X062-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X062-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -27030,7 +27030,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X063-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X063-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -27313,7 +27313,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X064-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X064-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -27600,7 +27600,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X065-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X065-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -27891,7 +27891,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X066-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X066-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -28186,7 +28186,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X067-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X067-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -28485,7 +28485,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X068-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X068-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -28788,7 +28788,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X069-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X069-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -29095,7 +29095,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X070-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X070-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -29406,7 +29406,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X071-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X071-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -29721,7 +29721,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X072-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X072-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -30040,7 +30040,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X073-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X073-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -30363,7 +30363,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X074-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X074-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -30690,7 +30690,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X075-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X075-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -31021,7 +31021,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X076-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X076-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -31356,7 +31356,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X077-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X077-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -31695,7 +31695,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X078-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X078-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -32038,7 +32038,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X079-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X079-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -32385,7 +32385,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X080-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X080-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -32736,7 +32736,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X081-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X081-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -33091,7 +33091,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X082-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X082-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -33450,7 +33450,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X083-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X083-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -33813,7 +33813,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X084-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X084-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -34180,7 +34180,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X085-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X085-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -34551,7 +34551,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X086-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X086-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -34926,7 +34926,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X087-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X087-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -35305,7 +35305,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X088-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X088-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -35688,7 +35688,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X089-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X089-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -36075,7 +36075,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X090-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X090-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -36466,7 +36466,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X091-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X091-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -36861,7 +36861,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X092-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X092-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -37260,7 +37260,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X093-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X093-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -37663,7 +37663,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X094-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X094-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -38070,7 +38070,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X095-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X095-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -38481,7 +38481,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X096-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X096-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -38896,7 +38896,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X097-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X097-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -39315,7 +39315,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X098-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X098-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -39738,7 +39738,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X099-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X099-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40165,7 +40165,7 @@
 		)
 	)
 
-	(symbol "HEADER-01X100-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-01X100-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40596,7 +40596,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X002-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X002-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40643,7 +40643,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X003-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X003-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40698,7 +40698,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X004-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X004-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40761,7 +40761,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X005-1_27MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X005-1_27MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40832,7 +40832,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X018-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X018-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -41007,7 +41007,7 @@
 		)
 	)
 
-	(symbol "HEADER-02X020-2_54MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "HEADER-02X020-2_54MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

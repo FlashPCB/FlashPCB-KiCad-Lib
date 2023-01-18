@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "AMPHENOL-PCI-EDGE-10018783-19919TLF" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "AMPHENOL-PCI-EDGE-10018783-19919TLF" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "X" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -239,7 +239,7 @@
 		)
 	)
 
-	(symbol "FEDUCIAL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "FEDUCIAL" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "FID" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -266,7 +266,7 @@
 		)
 	)
 
-	(symbol "TESTPOINT" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TESTPOINT" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "TP" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -307,7 +307,7 @@
 		)
 	)
 
-	(symbol "TC2050" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "TC2050" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "J" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -437,7 +437,7 @@
 		)
 	)
 
-	(symbol "ANTENNA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ANTENNA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "AE" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -478,7 +478,7 @@
 		)
 	)
 
-	(symbol "ANTENNA_EMBEDDED" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ANTENNA_EMBEDDED" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "AE" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -530,7 +530,7 @@
 		)
 	)
 
-	(symbol "MURATA_DVE_POWERSUPPLY" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "MURATA_DVE_POWERSUPPLY" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "PS" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "LED-SMT-0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "LED-SMT-0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -85,7 +85,7 @@
 		)
 	)
 
-	(symbol "LED-SMT-0805" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "LED-SMT-0805" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -171,7 +171,7 @@
 		)
 	)
 
-	(symbol "LED-SMT-1206" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "LED-SMT-1206" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -257,7 +257,7 @@
 		)
 	)
 
-	(symbol "LED-THT-3MMROUND" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "LED-THT-3MMROUND" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -343,7 +343,7 @@
 		)
 	)
 
-	(symbol "LED-THT-5MMROUND" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "LED-THT-5MMROUND" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -429,7 +429,7 @@
 		)
 	)
 
-	(symbol "DIODE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DIODE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -487,7 +487,7 @@
 		)
 	)
 
-	(symbol "DIODE_SCHOTTKY" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DIODE_SCHOTTKY" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -573,7 +573,7 @@
 		)
 	)
 
-	(symbol "DIODE_ZENER" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DIODE_ZENER" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -645,7 +645,7 @@
 		)
 	)
 
-	(symbol "DIODE_PHOTODIODE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DIODE_PHOTODIODE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -731,7 +731,7 @@
 		)
 	)
 
-	(symbol "DIODE_DUAL_SCHOTTKY" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "DIODE_DUAL_SCHOTTKY" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "D" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

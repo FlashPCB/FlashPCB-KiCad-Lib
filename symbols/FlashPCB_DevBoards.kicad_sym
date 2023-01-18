@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "ARDUINO_DUE" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_DUE" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -491,7 +491,7 @@
 		)
 	)
 
-	(symbol "ARDUINO_DUE_ALLPINS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_DUE_ALLPINS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1105,7 +1105,7 @@
 		)
 	)
 
-	(symbol "ARDUINO_MEGA" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_MEGA" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -1597,7 +1597,7 @@
 		)
 	)
 
-	(symbol "ARDUINO_MEGA_ALLPINS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_MEGA_ALLPINS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2129,7 +2129,7 @@
 		)
 	)
 
-	(symbol "ARDUINO_UNO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_UNO" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2375,7 +2375,7 @@
 		)
 	)
 
-	(symbol "ARDUINO_UNO_ALLPINS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "ARDUINO_UNO_ALLPINS" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2661,7 +2661,7 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI4_3B+_ZERO" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI4_3B+_ZERO" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -2916,7 +2916,7 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI_CM4" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI_CM4" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -3350,7 +3350,7 @@
 		)
 	)
 
-	(symbol "RASPBERRY_PI_CM1_3" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RASPBERRY_PI_CM1_3" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "U" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

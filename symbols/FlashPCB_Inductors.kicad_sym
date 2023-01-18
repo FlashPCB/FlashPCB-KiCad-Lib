@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "INDUCTOR_2-SMD" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_2-SMD" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -40,7 +40,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_0201" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_0201" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -81,7 +81,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_0402" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_0402" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -122,7 +122,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -163,7 +163,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_0805" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_0805" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -204,7 +204,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_1206" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_1206" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -245,7 +245,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_1210" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_1210" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -286,7 +286,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_74404054150" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_74404054150" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -327,7 +327,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_CDRH3D28_LDNP-120NC" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_CDRH3D28_LDNP-120NC" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -368,7 +368,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_CR75-680KC" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_CR75-680KC" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -409,7 +409,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_LCX5050" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_LCX5050" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -450,7 +450,7 @@
 		)
 	)
 
-	(symbol "INDUCTOR_NR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "INDUCTOR_NR" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "L" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)

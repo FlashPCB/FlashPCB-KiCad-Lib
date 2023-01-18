@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-	(symbol "RES-4PACK-0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-4PACK-0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -106,7 +106,7 @@
 		)
 	)
 
-	(symbol "RES-4PACK-0805" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-4PACK-0805" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -213,7 +213,7 @@
 		)
 	)
 
-	(symbol "RES-0402" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-0402" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -253,7 +253,7 @@
 		)
 	)
 
-	(symbol "RES-0603" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-0603" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -293,7 +293,7 @@
 		)
 	)
 
-	(symbol "RES-0805" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-0805" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -333,7 +333,7 @@
 		)
 	)
 
-	(symbol "RES-1206" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-1206" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -373,7 +373,7 @@
 		)
 	)
 
-	(symbol "RES-1210" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-1210" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -413,7 +413,7 @@
 		)
 	)
 
-	(symbol "RES-2010" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-2010" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -453,7 +453,7 @@
 		)
 	)
 
-	(symbol "RES-2512" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "RES-2512" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -493,7 +493,7 @@
 		)
 	)
 
-	(symbol "POT-THT-6MMROUND" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "POT-THT-6MMROUND" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -552,7 +552,7 @@
 		)
 	)
 
-	(symbol "POT-THT-9.53MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "POT-THT-9.53MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
@@ -611,7 +611,7 @@
 		)
 	)
 
-	(symbol "POT-SMT-JLEAD-3.8X3.6MM" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+	(symbol "POT-SMT-JLEAD-3.8X3.6MM" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
 		(property "Reference" "R" (id 0) (at 0 0 0)
 			(effects (font (size 1.27 1.08585)))
 		)
