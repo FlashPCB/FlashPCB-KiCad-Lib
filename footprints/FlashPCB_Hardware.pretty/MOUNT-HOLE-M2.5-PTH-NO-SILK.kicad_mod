@@ -3,11 +3,11 @@
   (tedit 0)
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1.27 1.08585) (thickness 0.15)))
-    (tstamp d7d3582c-d6f4-4240-a349-139d5eecda8b)
+    (tstamp b405a643-2147-4f1a-8f9c-bbbb6aeb1781)
   )
   (fp_text value "MOUNT-HOLE-M2.5-PTH-NO-SILK" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1.27 1.08585) (thickness 0.15)))
-    (tstamp 2f88c409-0ceb-4346-a360-bcdf7610deb0)
+    (tstamp 97791e19-63b5-47c3-bbae-b1a0f40157e0)
   )
   (fp_poly (pts
       (xy 2.594171875 0)
@@ -27,7 +27,7 @@
       (xy 1.156321875 2.32220625)
       (xy 1.917115625 1.74768125)
       (xy 2.418990625 0.937121875)
-    ) (layer "B.CrtYd") (width 0) (fill solid) (tstamp 3134f7e2-baaf-4ad8-92f1-15f56a0488b4))
+    ) (layer "B.CrtYd") (width 0) (fill solid) (tstamp 0a27a876-9917-4c77-bcca-ac06479d52f6))
   (fp_poly (pts
       (xy 2.594171875 0)
       (xy 2.418990625 -0.937121875)
@@ -46,10 +46,10 @@
       (xy 1.156321875 2.32220625)
       (xy 1.917115625 1.74768125)
       (xy 2.418990625 0.937121875)
-    ) (layer "F.CrtYd") (width 0) (fill solid) (tstamp b1df8455-dff9-4c2b-86c7-70fb9dde9870))
+    ) (layer "F.CrtYd") (width 0) (fill solid) (tstamp ff2435f6-9929-4695-a4c6-9a3e4b2acb7f))
   (fp_text reference ">Name" (at -1.74 -2.74 unlocked) (layer "F.SilkS")
     (effects (font (size 0.8128 0.694944) (thickness 0.12191999999999999)) (justify left bottom))
-    (tstamp 9823d57b-3d9a-4952-8bd9-34e4094fa99f)
+    (tstamp 1091971b-c5d6-4311-9eb1-13fe60f3363a)
   )
   (pad "P$1" thru_hole custom (at 0 0) (size 0.1 0.1) (drill 2.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
@@ -65,5 +65,5 @@
           (xy 1.125 -2.25)
           (xy 2.25 -1.125)
         ) (width 0.01) (fill yes))
-    ) (tstamp 26a653b0-ad13-4196-84f7-896d69fbf4b9))
+    ) (tstamp 90d1327f-2c24-4727-9825-c13a58dfe1f8))
 )

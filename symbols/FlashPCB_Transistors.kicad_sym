@@ -942,11 +942,11 @@
       )
       (pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
         (name "DRAIN" (effects (font (size 0 0))))
-        (number "TAB$1" (effects (font (size 0 0))))
+        (number "TAB_1" (effects (font (size 0 0))))
       )
       (pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
         (name "DRAIN" (effects (font (size 0 0))))
-        (number "TAB$2" (effects (font (size 0 0))))
+        (number "TAB_2" (effects (font (size 0 0))))
       )
     )
   )
@@ -1117,11 +1117,11 @@
       )
       (pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
         (name "DRAIN" (effects (font (size 0 0))))
-        (number "TAB$1" (effects (font (size 0 0))))
+        (number "TAB_1" (effects (font (size 0 0))))
       )
       (pin bidirectional line (at 2.54 7.62 270) (length 5.08) hide
         (name "DRAIN" (effects (font (size 0 0))))
-        (number "TAB$2" (effects (font (size 0 0))))
+        (number "TAB_2" (effects (font (size 0 0))))
       )
     )
   )

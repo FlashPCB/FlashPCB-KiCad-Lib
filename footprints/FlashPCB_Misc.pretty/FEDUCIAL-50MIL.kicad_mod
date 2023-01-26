@@ -4,11 +4,11 @@
   (descr "This is board feature and there is no component for this Package")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1.27 1.08585) (thickness 0.15)))
-    (tstamp 4261f205-f23d-492a-9d01-5814c4e0517d)
+    (tstamp b5fcaefb-4273-45d9-b496-6350bb6aa5ab)
   )
   (fp_text value "FEDUCIAL-50MIL" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1.27 1.08585) (thickness 0.15)))
-    (tstamp f11379b4-c357-4b0b-afec-f80a5a57bf7d)
+    (tstamp 1a0c4a6c-c7ac-4380-9ce4-86b923a10009)
   )
   (fp_poly (pts
       (xy 1.602428125 0)
@@ -21,9 +21,9 @@
       (xy -0.495178125 1.524)
       (xy 0.495178125 1.524)
       (xy 1.296390625 0.941884375)
-    ) (layer "F.CrtYd") (width 0) (fill solid) (tstamp 5c168f76-0c9a-4dbf-b999-fffce9802fcb))
-  (fp_circle (center 0 0) (end 0.762 0) (layer "F.Mask") (width 1.524) (fill none) (tstamp f0a7b70a-4244-4233-850b-bee1ed6a66d0))
-  (fp_circle (center 0 0) (end 0.635 0) (layer "F.Mask") (width 1.27) (fill none) (tstamp 6d422d48-a348-4823-8945-42b92519b80c))
-  (pad "P$1" smd roundrect (at 0 0) (size 1.27 1.27) (layers "F.Cu") (roundrect_rratio 0.5)
-    (zone_connect 0) (tstamp 3ad1da51-0efc-42fe-8851-ab241fba04f5))
+    ) (layer "F.CrtYd") (width 0) (fill solid) (tstamp d1027811-4c75-41e5-8dbb-b612eb11f0d7))
+  (fp_circle (center 0 0) (end 0.762 0) (layer "F.Mask") (width 1.524) (fill none) (tstamp 53944ffc-6ac9-40c4-ab23-7efa6532d700))
+  (fp_circle (center 0 0) (end 0.635 0) (layer "F.Mask") (width 1.27) (fill none) (tstamp b8d1f9d6-44c8-4cc2-b297-c5c6b63076ab))
+  (pad "1" smd roundrect (at 0 0) (size 1.27 1.27) (layers "F.Cu") (roundrect_rratio 0.5)
+    (zone_connect 0) (tstamp 6ecba58c-ac75-48d7-9f74-279b7660da8b))
 )
