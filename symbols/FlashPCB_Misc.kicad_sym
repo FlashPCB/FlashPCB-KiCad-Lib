@@ -10,8 +10,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "PCI-E 1x Card Edge " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:AMPHENOL-PCI-EDGE-10018783-19919TLF" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4e23ce4d48870c85c1" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "PCI-E 1x Card Edge " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Misc:AMPHENOL-PCI-EDGE-10018783-19919TLF" (id 6) (at 0 0 0))
     (symbol "AMPHENOL-PCI-EDGE-10018783-19919TLF_1_1"
       (text "Component Side" (at 68.58 20.32 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -339,8 +342,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" " Feducial Marker " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:FEDUCIAL-50MIL" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4f23ce4d48870c85c3" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" " Feducial Marker " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Misc:FEDUCIAL-50MIL" (id 6) (at 0 0 0))
     (symbol "FEDUCIAL_1_1"
       (text "Feducial" (at 0 5.08 0)
         (effects (font (size 1.778 1.52019)))
@@ -362,7 +368,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:TESTPOINT_SMT_0_65MM FlashPCB_Misc:TESTPOINT_SMT_0_65MM_NOSILK FlashPCB_Misc:TESTPOINT_SMT_1MM FlashPCB_Misc:TESTPOINT_SMT_1MM_NOSILK FlashPCB_Misc:TESTPOINT_SMT_25MIL FlashPCB_Misc:TESTPOINT_SMT_25MIL_NOSILK FlashPCB_Misc:TESTPOINT_SMT_40MIL FlashPCB_Misc:TESTPOINT_SMT_40MIL_NOSILK FlashPCB_Misc:TESTPOINT_THT_1MM FlashPCB_Misc:TESTPOINT_THT_1MM_NOSILK" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5123ce4d48870c85ce" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Misc:TESTPOINT_SMT_0_65MM FlashPCB_Misc:TESTPOINT_SMT_0_65MM_NOSILK FlashPCB_Misc:TESTPOINT_SMT_1MM FlashPCB_Misc:TESTPOINT_SMT_1MM_NOSILK FlashPCB_Misc:TESTPOINT_SMT_25MIL FlashPCB_Misc:TESTPOINT_SMT_25MIL_NOSILK FlashPCB_Misc:TESTPOINT_SMT_40MIL FlashPCB_Misc:TESTPOINT_SMT_40MIL_NOSILK FlashPCB_Misc:TESTPOINT_THT_1MM FlashPCB_Misc:TESTPOINT_THT_1MM_NOSILK" (id 5) (at 0 0 0))
     (symbol "TESTPOINT_1_1"
       (text "Test Point\nNo Part Placed" (at 2.54 -2.54 0)
         (effects (font (size 0.4064 0.347472)) (justify left bottom))
@@ -416,8 +425,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "TC2050  - Bed of Nails 10 pins Technical Specifications: Accessory Type: Adapter Cable " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:TC2050-IDC FlashPCB_Misc:TC2050-IDC-NL" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5123ce4d48870c85d1" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "TC2050  - Bed of Nails 10 pins Technical Specifications: Accessory Type: Adapter Cable " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Misc:TC2050-IDC FlashPCB_Misc:TC2050-IDC-NL" (id 6) (at 0 0 0))
     (symbol "TC2050_1_1"
       (polyline
         (pts
@@ -556,7 +568,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:ANT-1.6X0.8" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5223ce4d48870c85d3" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Misc:ANT-1.6X0.8" (id 5) (at 0 0 0))
     (symbol "ANTENNA_1_1"
       (polyline
         (pts
@@ -607,7 +622,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:ANT-1.6X0.8" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5223ce4d48870c85d4" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Misc:ANT-1.6X0.8" (id 5) (at 0 0 0))
     (symbol "ANTENNA_EMBEDDED_1_1"
       (polyline
         (pts
@@ -670,7 +688,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Misc:MURATA_DVE" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5323ce4d48870c85d6" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Misc:MURATA_DVE" (id 5) (at 0 0 0))
     (symbol "MURATA_DVE_POWERSUPPLY_1_1"
       (polyline
         (pts

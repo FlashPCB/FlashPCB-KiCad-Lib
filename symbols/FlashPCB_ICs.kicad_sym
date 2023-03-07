@@ -10,8 +10,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "The TMC262 driver for two-phase stepper motors offers an industry-leading feature set, including high-resolution microstepping, sensorless mechanical load measurement, load-adaptive power optimization, and low-resonance chopper operation. Standard SPIÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ and STEP/DIR interfaces simplify communication. The TMC262 drives four external N- and Pchannel dual MOSFETs for motor currents up to 8A and up to 60V. Integrated protection and diagnostic features support robust and reliable operation. High integration, high energy efficiency and small form factor enable miniaturized designs with low external component count for cost-effective and highly competitive solutions. " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:TRINAMIC-QFN32-5X5" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3823ce4d48870c8562" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "The TMC262 driver for two-phase stepper motors offers an industry-leading feature set, including high-resolution microstepping, sensorless mechanical load measurement, load-adaptive power optimization, and low-resonance chopper operation. Standard SPIÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ and STEP/DIR interfaces simplify communication. The TMC262 drives four external N- and Pchannel dual MOSFETs for motor currents up to 8A and up to 60V. Integrated protection and diagnostic features support robust and reliable operation. High integration, high energy efficiency and small form factor enable miniaturized designs with low external component count for cost-effective and highly competitive solutions. " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:TRINAMIC-QFN32-5X5" (id 6) (at 0 0 0))
     (symbol "TRINAMIC-TMC262_1_1"
       (text "TMC-262" (at 5.08 15.24 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -193,8 +196,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "APA102 Addressable RGB LED     Datasheets:   2020    5050 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:APA102-2020" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3923ce4d48870c8565" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "APA102 Addressable RGB LED     Datasheets:   2020    5050 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:APA102-2020" (id 6) (at 0 0 0))
     (symbol "APA102_-2020_1_1"
       (polyline
         (pts
@@ -697,8 +703,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "APA102 Addressable RGB LED     Datasheets:   2020    5050 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:APA102-5050" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3923ce4d48870c8566" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "APA102 Addressable RGB LED     Datasheets:   2020    5050 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:APA102-5050" (id 6) (at 0 0 0))
     (symbol "APA102_-5050_1_1"
       (polyline
         (pts
@@ -1201,8 +1210,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "SK6812  - Smart Controlled 5050 LED   Technical Specifications:    Input voltage: +5   Working temperature: -40~+85 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Datasheet:  SK6812  Datasheet:  SK6812RGBW " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SK6812-5050" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3a23ce4d48870c8569" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "SK6812  - Smart Controlled 5050 LED   Technical Specifications:    Input voltage: +5   Working temperature: -40~+85 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Datasheet:  SK6812  Datasheet:  SK6812RGBW " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SK6812-5050" (id 6) (at 0 0 0))
     (symbol "SK6812_5050_1_1"
       (polyline
         (pts
@@ -1265,8 +1277,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "SK6812  - Smart Controlled 5050 LED   Technical Specifications:    Input voltage: +5   Working temperature: -40~+85 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Datasheet:  SK6812  Datasheet:  SK6812RGBW " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SK6812-3535" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3a23ce4d48870c856a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "SK6812  - Smart Controlled 5050 LED   Technical Specifications:    Input voltage: +5   Working temperature: -40~+85 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Datasheet:  SK6812  Datasheet:  SK6812RGBW " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SK6812-3535" (id 6) (at 0 0 0))
     (symbol "SK6812_3535_1_1"
       (polyline
         (pts
@@ -1329,8 +1344,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "MCP9600T-E/MX  - IC THERMOCOUPLE TO I2C   Technical Specifications:    Accuracy: +/-1.5 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C   Resolution: +0.0625 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Component Search:  [DATA SHEET NAME]   Datasheet:  MCP960X/L0X/RL0X Data Sheet " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:20-QFN(5X5)-MCP960X" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3a23ce4d48870c856c" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "MCP9600T-E/MX  - IC THERMOCOUPLE TO I2C   Technical Specifications:    Accuracy: +/-1.5 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C   Resolution: +0.0625 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Component Search:  [DATA SHEET NAME]   Datasheet:  MCP960X/L0X/RL0X Data Sheet " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:20-QFN(5X5)-MCP960X" (id 6) (at 0 0 0))
     (symbol "MCP9600_1_1"
       (text "MCP9600" (at -2.54 -12.7 0)
         (effects (font (size 1.27 1.08585)) (justify left bottom))
@@ -1464,8 +1482,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "MAX31856MUD+T  - IC CONV THERMOCOUPLE 14TSSOP   Technical Specifications:    Thermocouple Scale: -20ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C to 85ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C   Resolution: 19-bit .0078125ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Component Search:  [DATA SHEET NAME]   Datasheet:  MAX31856 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:14-TSSOP" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3b23ce4d48870c856e" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "MAX31856MUD+T  - IC CONV THERMOCOUPLE 14TSSOP   Technical Specifications:    Thermocouple Scale: -20ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C to 85ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C   Resolution: 19-bit .0078125ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C       Component Search:  [DATA SHEET NAME]   Datasheet:  MAX31856 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:14-TSSOP" (id 6) (at 0 0 0))
     (symbol "MAX31856_1_1"
       (text "MAX31856" (at -2.54 -12.7 0)
         (effects (font (size 1.27 1.08585)) (justify left bottom))
@@ -1571,8 +1592,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "MAX4466EXK+T  - IC AMP CLASS AB MONO SC70-5   Technical Specifications:    Output: 1-channel   Common-Mode Rejection Ration: 126dB       Component Search:  [DATA SHEET NAME]   Datasheet:  MAX4465-69 DS " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SC70-5" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3b23ce4d48870c8570" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "MAX4466EXK+T  - IC AMP CLASS AB MONO SC70-5   Technical Specifications:    Output: 1-channel   Common-Mode Rejection Ration: 126dB       Component Search:  [DATA SHEET NAME]   Datasheet:  MAX4465-69 DS " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SC70-5" (id 6) (at 0 0 0))
     (symbol "MAX446X-5_1_1"
       (text "MAX4466\nMAX4465" (at 0 -10.16 0)
         (effects (font (size 1.27 1.08585)))
@@ -1642,7 +1666,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:TSSOP-16 FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3c23ce4d48870c8573" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_ICs:TSSOP-16 FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 5) (at 0 0 0))
     (symbol "74X4020-14BIT-COUNTER_1_1"
       (text "74HC4020-14Bit-Counter" (at -12.7 -20.32 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1756,8 +1783,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-555-timer " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-8-150MIL-3.9MM FlashPCB_ICs:TSSOP-8" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3c23ce4d48870c8576" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-555-timer " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-8-150MIL-3.9MM FlashPCB_ICs:TSSOP-8" (id 6) (at 0 0 0))
     (symbol "555-TIMER_1_1"
       (text "555 Timer" (at -5.08 0 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1839,8 +1869,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "ATSAMD10D14A-MUT  -ARMÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® CortexÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®-M0+ series Microcontroller IC 32-Bit Single-Core 48MHz 16KB (16K x 8) FLASH 24-QFN (4x4)   Technical Specifications:    Core Processor: ARMÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® CortexÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®-M0+   Speed: 48MHz       Component Search:  [DATA SHEET NAME]   Datasheet:  SAMD10 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:24-QFN(4X4)" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3d23ce4d48870c8578" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "ATSAMD10D14A-MUT  -ARMÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® CortexÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®-M0+ series Microcontroller IC 32-Bit Single-Core 48MHz 16KB (16K x 8) FLASH 24-QFN (4x4)   Technical Specifications:    Core Processor: ARMÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® CortexÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®-M0+   Speed: 48MHz       Component Search:  [DATA SHEET NAME]   Datasheet:  SAMD10 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:24-QFN(4X4)" (id 6) (at 0 0 0))
     (symbol "ATSAMD10D14A-MUT_1_1"
       (text "ATSAMD10D14A-MUT" (at -12.7 -22.86 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1986,8 +2019,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "ATmega32U4  -8-bit Microcontroller with 32K bytes of ISP Flash and USB Controller   Technical Specifications:    Core Processor: High Performance, Low Power AVRÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® 8-Bit Microcontroller   Speed: 16MHz       Component Search:  [DATA SHEET NAME]   Datasheet:  ATmega16U4/ATmega32U4 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:44-VQFN(7X7)-EXPOSED-PAD" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3d23ce4d48870c857a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "ATmega32U4  -8-bit Microcontroller with 32K bytes of ISP Flash and USB Controller   Technical Specifications:    Core Processor: High Performance, Low Power AVRÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â® 8-Bit Microcontroller   Speed: 16MHz       Component Search:  [DATA SHEET NAME]   Datasheet:  ATmega16U4/ATmega32U4 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:44-VQFN(7X7)-EXPOSED-PAD" (id 6) (at 0 0 0))
     (symbol "ATMEGA32U4_1_1"
       (polyline
         (pts
@@ -2214,8 +2250,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "ATmega328P-AUR  - A low power, CMOS 8-bit microcontrollers based on the AVRÃ‚Â® enhanced RISC architecture   Technical Specifications:    SRAM : 512/1K/1K/2KBytes   EEPROM: 256/512/512/1KBytes       Component Search:  [DATA SHEET NAME]   Datasheet:  megaAVRÃ‚Â® Data Sheet " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:32-TQFP" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3d23ce4d48870c857c" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "ATmega328P-AUR  - A low power, CMOS 8-bit microcontrollers based on the AVRÃ‚Â® enhanced RISC architecture   Technical Specifications:    SRAM : 512/1K/1K/2KBytes   EEPROM: 256/512/512/1KBytes       Component Search:  [DATA SHEET NAME]   Datasheet:  megaAVRÃ‚Â® Data Sheet " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:32-TQFP" (id 6) (at 0 0 0))
     (symbol "ATMEGA328P-AUR_1_1"
       (polyline
         (pts
@@ -2390,8 +2429,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "FT231X  - USB to FULL HANDSHAKE UART IC   Technical Specifications:    Standard: USB 2.0   Supply Voltage: 3.3v - 5v       Component Search:  [DATA SHEET NAME]   Datasheet:  FT231X " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:20-SSOP" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3e23ce4d48870c857e" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "FT231X  - USB to FULL HANDSHAKE UART IC   Technical Specifications:    Standard: USB 2.0   Supply Voltage: 3.3v - 5v       Component Search:  [DATA SHEET NAME]   Datasheet:  FT231X " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:20-SSOP" (id 6) (at 0 0 0))
     (symbol "FT231X_1_1"
       (text "FT231X" (at 0 15.24 0)
         (effects (font (size 1.778 1.52019)))
@@ -2521,8 +2563,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "Voltage Regulator SOT  - SOT-23-5 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: GND   Pin3: EN/SHDN   Pin4: PWRGND   Pin5: OUT     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-5 FlashPCB_ICs:SOT-223-5_NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3e23ce4d48870c8581" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "Voltage Regulator SOT  - SOT-23-5 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: GND   Pin3: EN/SHDN   Pin4: PWRGND   Pin5: OUT     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-5 FlashPCB_ICs:SOT-223-5_NOSILK" (id 6) (at 0 0 0))
     (symbol "VOLTAGE-REG-SOT-23-5-PWRGD_1_1"
       (polyline
         (pts
@@ -2589,7 +2634,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:4-X2SON(1.0X1.0)" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3e23ce4d48870c8583" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_ICs:4-X2SON(1.0X1.0)" (id 5) (at 0 0 0))
     (symbol "VOLTAGE-REG-4-X2SON_1_1"
       (polyline
         (pts
@@ -2656,8 +2704,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "Voltage Regulator SOT  - SOT-23-3 Voltage Regulator   Technical Specifications:    Pin1: GND   Pin2: OUT   Pin3: IN     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-3F FlashPCB_ICs:SOT-23-3 FlashPCB_ICs:SOT-23-3_NOSILK FlashPCB_ICs:SOT-23-3F_NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba3f23ce4d48870c8588" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "Voltage Regulator SOT  - SOT-23-3 Voltage Regulator   Technical Specifications:    Pin1: GND   Pin2: OUT   Pin3: IN     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-3F FlashPCB_ICs:SOT-23-3 FlashPCB_ICs:SOT-23-3_NOSILK FlashPCB_ICs:SOT-23-3F_NOSILK" (id 6) (at 0 0 0))
     (symbol "VOLTAGE-REG-SOT-23-3-L_1_1"
       (polyline
         (pts
@@ -2716,8 +2767,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "Voltage Regulator SOT  - SOT-23-5 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: GND   Pin3: EN/SHDN   Pin4: NC/ADJ   Pin5: OUT     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-5 FlashPCB_ICs:SOT-23-5_NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4023ce4d48870c858a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "Voltage Regulator SOT  - SOT-23-5 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: GND   Pin3: EN/SHDN   Pin4: NC/ADJ   Pin5: OUT     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-5 FlashPCB_ICs:SOT-23-5_NOSILK" (id 6) (at 0 0 0))
     (symbol "VOLTAGE-REG-SOT-23-5_1_1"
       (polyline
         (pts
@@ -2784,8 +2838,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "Voltage Regulator SOT  - SOT-23-3 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: OUT   Pin3: GND      " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-3F FlashPCB_ICs:SOT-23-3 FlashPCB_ICs:SOT-23-3_NOSILK FlashPCB_ICs:SOT-23-3F_NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4023ce4d48870c858b" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "Voltage Regulator SOT  - SOT-23-3 Voltage Regulator   Technical Specifications:    Pin1: IN   Pin2: OUT   Pin3: GND      " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-3F FlashPCB_ICs:SOT-23-3 FlashPCB_ICs:SOT-23-3_NOSILK FlashPCB_ICs:SOT-23-3F_NOSILK" (id 6) (at 0 0 0))
     (symbol "VOLTAGE-REG-SOT-23-3_1_1"
       (polyline
         (pts
@@ -2844,8 +2901,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CC2640R2L  SimpleLinkÃ¢â€žÂ¢ Bluetooth Ã‚Â® 5.1 Low Energy Wireless MCU   Technical Specifications:    Core Processor: ArmÃ‚Â® CortexÃ‚Â®-M3       Component Search:  [DATA SHEET NAME]   Datasheet:  CC2640R2L " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:32-VQFN(5X5)-EXPOSED-PAD" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4123ce4d48870c858d" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CC2640R2L  SimpleLinkÃ¢â€žÂ¢ Bluetooth Ã‚Â® 5.1 Low Energy Wireless MCU   Technical Specifications:    Core Processor: ArmÃ‚Â® CortexÃ‚Â®-M3       Component Search:  [DATA SHEET NAME]   Datasheet:  CC2640R2L " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:32-VQFN(5X5)-EXPOSED-PAD" (id 6) (at 0 0 0))
     (symbol "TI-CC2640R2L_1_1"
       (polyline
         (pts
@@ -3024,7 +3084,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6 FlashPCB_ICs:SOT-23-6_NOSILK" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4223ce4d48870c8590" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6 FlashPCB_ICs:SOT-23-6_NOSILK" (id 5) (at 0 0 0))
     (symbol "STEP_UP_CONTROLLER_6PIN_1_1"
       (polyline
         (pts
@@ -3095,8 +3158,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "74X4049  - Hex Inverting Buffer   Technical Specifications:     Logic Type: Buffer, Inverting    Number of Elements: 6    Number of Bits per Element: 1       Component Search:  [DATA SHEET NAME]   Datasheet:  74HC4049 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4223ce4d48870c8591" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "74X4049  - Hex Inverting Buffer   Technical Specifications:     Logic Type: Buffer, Inverting    Number of Elements: 6    Number of Bits per Element: 1       Component Search:  [DATA SHEET NAME]   Datasheet:  74HC4049 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 6) (at 0 0 0))
     (symbol "74X4049-HEX-INVERTING-BUFFER_1_1"
       (text "74x4049\nHex Inverting Buffer" (at -9.652 -22.098 0)
         (effects (font (size 0.8128 0.694944)) (justify left bottom))
@@ -3514,8 +3580,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "74X4050  - Hex Non-Inverting Buffer   Technical Specifications:     Logic Type: Buffer, Non-Inverting    Number of Elements: 6    Number of Bits per Element: 1       Component Search:  [DATA SHEET NAME]   Datasheet:  74HC4050 " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4223ce4d48870c8592" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "74X4050  - Hex Non-Inverting Buffer   Technical Specifications:     Logic Type: Buffer, Non-Inverting    Number of Elements: 6    Number of Bits per Element: 1       Component Search:  [DATA SHEET NAME]   Datasheet:  74HC4050 " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOIC-16-150MIL-3.9MM" (id 6) (at 0 0 0))
     (symbol "74X4050-HEX-NON-INVERTING-BUFFER_1_1"
       (text "74x4050\nHex Non-Inverting Buffer" (at -9.652 -22.098 0)
         (effects (font (size 0.8128 0.694944)) (justify left bottom))
@@ -3909,8 +3978,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4323ce4d48870c8595" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6" (id 6) (at 0 0 0))
     (symbol "LED-DRIVER-1CH-PWM_SOT26_1_1"
       (text "LED Driver" (at -5.08 -10.16 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -3984,8 +4056,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6_NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4323ce4d48870c8596" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:SOT-23-6_NOSILK" (id 6) (at 0 0 0))
     (symbol "LED-DRIVER-1CH-PWM_SOT26-NOSILK_1_1"
       (text "LED Driver" (at -5.08 -10.16 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -4059,8 +4134,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:6-UDFN(2.0X2.0)" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4323ce4d48870c8597" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:6-UDFN(2.0X2.0)" (id 6) (at 0 0 0))
     (symbol "LED-DRIVER-1CH-PWM_6-UDFN_1_1"
       (text "LED Driver" (at -5.08 -10.16 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -4130,8 +4208,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_ICs:6-UDFN(2.0X2.0)-NOSILK" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba4323ce4d48870c8598" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "LED Driver  - LED Driver IC 1 Output  PWM Dimming   Technical Specifications:    Dimming: PWM       Component Search:  [DATA SHEET NAME]   Datasheet:  BCR420UW6 / BCR421UW6   Datasheet:  BCR420UFDQ / BCR421UFDQ " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_ICs:6-UDFN(2.0X2.0)-NOSILK" (id 6) (at 0 0 0))
     (symbol "LED-DRIVER-1CH-PWM_6-UDFN-NOSILK_1_1"
       (text "LED Driver" (at -5.08 -10.16 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))

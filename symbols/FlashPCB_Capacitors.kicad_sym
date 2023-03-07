@@ -10,7 +10,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-4PACK-0603" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73823ce4d48870c7e90" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-4PACK-0603" (id 5) (at 0 0 0))
     (symbol "CAP-4PACK-0603_1_1"
       (polyline
         (pts
@@ -281,7 +284,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-4MM-DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73823ce4d48870c7e92" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-4MM-DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-4MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -343,7 +349,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-5MM-DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73823ce4d48870c7e94" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-5MM-DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-5MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -405,7 +414,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-6.3MM-DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73923ce4d48870c7e96" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-6.3MM-DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-6.3MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -467,7 +479,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-8MM-DIA FlashPCB_Capacitors:CAP-ALUM-8MM-TALL-DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73923ce4d48870c7e99" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-8MM-DIA FlashPCB_Capacitors:CAP-ALUM-8MM-TALL-DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-8MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -529,7 +544,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-10MM-DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73a23ce4d48870c7e9b" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-10MM-DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-10MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -591,7 +609,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-12.5MM_DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73a23ce4d48870c7e9d" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-12.5MM_DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-12.5MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -653,7 +674,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-16MM_DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73a23ce4d48870c7e9f" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-16MM_DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-16MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -715,7 +739,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-18MM_DIA" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73b23ce4d48870c7ea1" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-ALUM-18MM_DIA" (id 5) (at 0 0 0))
     (symbol "CAP-ALUM-18MM-DIA_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -777,8 +804,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CAP 0402  - Ceramic Capacitor   Technical Specifications:    Size: 0402      " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0402" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73b23ce4d48870c7ea3" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CAP 0402  - Ceramic Capacitor   Technical Specifications:    Size: 0402      " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0402" (id 6) (at 0 0 0))
     (symbol "CAP-CERAMIC-0402_1_1"
       (polyline
         (pts
@@ -849,8 +879,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CAP 0603  - Ceramic Capacitor   Technical Specifications:    Size: 0603     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0603" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73c23ce4d48870c7ea5" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CAP 0603  - Ceramic Capacitor   Technical Specifications:    Size: 0603     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0603" (id 6) (at 0 0 0))
     (symbol "CAP-CERAMIC-0603_1_1"
       (polyline
         (pts
@@ -921,8 +954,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CAP 0805  - Ceramic Capacitor   Technical Specifications:    Size: 0805     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0805" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73c23ce4d48870c7ea7" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CAP 0805  - Ceramic Capacitor   Technical Specifications:    Size: 0805     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-0805" (id 6) (at 0 0 0))
     (symbol "CAP-CERAMIC-0805_1_1"
       (polyline
         (pts
@@ -993,8 +1029,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CAP 1206  - Ceramic Capacitor   Technical Specifications:    Size: 1206     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-1206" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73c23ce4d48870c7ea9" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CAP 1206  - Ceramic Capacitor   Technical Specifications:    Size: 1206     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-1206" (id 6) (at 0 0 0))
     (symbol "CAP-CERAMIC-1206_1_1"
       (polyline
         (pts
@@ -1065,8 +1104,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "CAP 1210  - Ceramic Capacitor   Technical Specifications:    Size: 1210     " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-1210" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73d23ce4d48870c7eab" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "CAP 1210  - Ceramic Capacitor   Technical Specifications:    Size: 1210     " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-1210" (id 6) (at 0 0 0))
     (symbol "CAP-CERAMIC-1210_1_1"
       (polyline
         (pts
@@ -1137,7 +1179,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-3216" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73d23ce4d48870c7ead" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-3216" (id 5) (at 0 0 0))
     (symbol "CAP-TANTALUM-EIA-3216_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1199,7 +1244,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-3528" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73d23ce4d48870c7eaf" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-3528" (id 5) (at 0 0 0))
     (symbol "CAP-TANTALUM-EIA-3528_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1261,7 +1309,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-6032" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73e23ce4d48870c7eb1" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-6032" (id 5) (at 0 0 0))
     (symbol "CAP-TANTALUM-EIA-6032_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1323,7 +1374,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-7343" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73e23ce4d48870c7eb3" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-7343" (id 5) (at 0 0 0))
     (symbol "CAP-TANTALUM-EIA-7343_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))
@@ -1385,7 +1439,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-7360" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407b73f23ce4d48870c7eb5" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Capacitors:CAP-EIA-7360" (id 5) (at 0 0 0))
     (symbol "CAP-TANTALUM-EIA-7360_1_1"
       (text "+" (at -2.159 1.016 0)
         (effects (font (size 1.778 1.52019)) (justify left bottom))

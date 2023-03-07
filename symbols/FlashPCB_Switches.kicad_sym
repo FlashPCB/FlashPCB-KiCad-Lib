@@ -10,7 +10,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-EVPBT FlashPCB_Switches:SWITCH-TACT-EVPBT-ST FlashPCB_Switches:SWITCH-TACT-EVQ-P0 FlashPCB_Switches:SWITCH-TACT-EVQ-Q2" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6f23ce4d48870c864d" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-EVPBT FlashPCB_Switches:SWITCH-TACT-EVPBT-ST FlashPCB_Switches:SWITCH-TACT-EVQ-P0 FlashPCB_Switches:SWITCH-TACT-EVQ-Q2" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-EVQ_1_1"
       (polyline
         (pts
@@ -89,7 +92,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-EVPBT-G FlashPCB_Switches:SWITCH-TACT-EVPBT-ST-G FlashPCB_Switches:SWITCH-TACT-EVQ-P0-G FlashPCB_Switches:SWITCH-TACT-EVQ-Q2-G" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7023ce4d48870c8652" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-EVPBT-G FlashPCB_Switches:SWITCH-TACT-EVPBT-ST-G FlashPCB_Switches:SWITCH-TACT-EVQ-P0-G FlashPCB_Switches:SWITCH-TACT-EVQ-Q2-G" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-EVQ-G_1_1"
       (polyline
         (pts
@@ -172,7 +178,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-FSMCT" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7123ce4d48870c8654" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-FSMCT" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-FSMCT_1_1"
       (polyline
         (pts
@@ -251,7 +260,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-KMR2-NG" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7123ce4d48870c8656" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-KMR2-NG" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-KMR2_1_1"
       (polyline
         (pts
@@ -330,7 +342,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-KMR2-G" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7223ce4d48870c8658" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-KMR2-G" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-KMR2-G_1_1"
       (polyline
         (pts
@@ -413,7 +428,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-SMT-G" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7223ce4d48870c865c" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-SMT-G" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-PTS645_SMT-G_1_1"
       (polyline
         (pts
@@ -492,7 +510,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-SMT-J" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7323ce4d48870c865d" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-SMT-J" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-PTS645_SMT-J_1_1"
       (polyline
         (pts
@@ -571,7 +592,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-S" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7323ce4d48870c865e" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-S" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-PTS645__1_1"
       (polyline
         (pts
@@ -650,7 +674,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-T" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7323ce4d48870c8661" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-T" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-PTS645-G_THT-T_1_1"
       (polyline
         (pts
@@ -733,7 +760,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-V" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7323ce4d48870c8662" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-TACT-PTS645-THT-V" (id 5) (at 0 0 0))
     (symbol "SWITCH-TACT-PTS645-G_THT-V_1_1"
       (polyline
         (pts
@@ -812,7 +842,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-SPDT-JS102011SCQN FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-SPDT-JS102011JCQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7423ce4d48870c8665" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-SPDT-JS102011SCQN FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-SPDT-JS102011JCQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-SMT-VERT_1_1"
       (polyline
         (pts
@@ -859,7 +892,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-CUS-22B" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7523ce4d48870c8669" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-CUS-22B" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-SMT-VERT_CUS-22B_1_1"
       (polyline
         (pts
@@ -962,7 +998,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-JS202011JCQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7523ce4d48870c866a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-JS202011JCQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-SMT-VERT_JS202011JCQN_1_1"
       (polyline
         (pts
@@ -1065,7 +1104,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-JS202011SCQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7523ce4d48870c866b" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-VERT-DPDT-JS202011SCQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-SMT-VERT_JS202011SCQN_1_1"
       (polyline
         (pts
@@ -1168,7 +1210,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-CUS-12B-EG1215" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7623ce4d48870c866f" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-CUS-12B-EG1215" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-SMT-RA_CUS-12B_1_1"
       (polyline
         (pts
@@ -1215,7 +1260,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-CUS-12B-EG1215" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7623ce4d48870c8670" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-CUS-12B-EG1215" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-SMT-RA_EG1215_1_1"
       (polyline
         (pts
@@ -1262,7 +1310,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-JS102011JAQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7623ce4d48870c8671" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-JS102011JAQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-SMT-RA_JS102011JAQN_1_1"
       (polyline
         (pts
@@ -1321,7 +1372,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-JS102011SAQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7623ce4d48870c8672" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-SPDT-JS102011SAQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-SMT-RA_JS102011SAQN_1_1"
       (polyline
         (pts
@@ -1368,7 +1422,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-DPDT-JS202011JAQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7723ce4d48870c8674" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-SMT-RA-DPDT-JS202011JAQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-SMT-RA_1_1"
       (polyline
         (pts
@@ -1471,7 +1528,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-VERT-SPDT-JS102011CQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7723ce4d48870c8676" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-VERT-SPDT-JS102011CQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-SPDT-THT-VERT_1_1"
       (polyline
         (pts
@@ -1518,7 +1578,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-VERT-DPDT-JS202011CQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7823ce4d48870c8678" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-VERT-DPDT-JS202011CQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-THT-VERT_1_1"
       (polyline
         (pts
@@ -1621,7 +1684,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-RA-DPDT-JS202011AQN" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba7823ce4d48870c867a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Switches:SWITCH-SLIDE-THT-RA-DPDT-JS202011AQN" (id 5) (at 0 0 0))
     (symbol "SWITCH-DPDT-THT-RA_1_1"
       (polyline
         (pts

@@ -10,7 +10,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-4PACK-0603" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5d23ce4d48870c8602" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-4PACK-0603" (id 5) (at 0 0 0))
     (symbol "RES-4PACK-0603_1_1"
       (polyline
         (pts
@@ -249,7 +252,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-4PACK-0805" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5e23ce4d48870c8604" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-4PACK-0805" (id 5) (at 0 0 0))
     (symbol "RES-4PACK-0805_1_1"
       (polyline
         (pts
@@ -488,8 +494,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0402" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5e23ce4d48870c8606" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0402" (id 6) (at 0 0 0))
     (symbol "RES-0402_1_1"
       (polyline
         (pts
@@ -552,8 +561,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0603" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5f23ce4d48870c8608" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0603" (id 6) (at 0 0 0))
     (symbol "RES-0603_1_1"
       (polyline
         (pts
@@ -616,8 +628,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0805" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5f23ce4d48870c860a" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-0805" (id 6) (at 0 0 0))
     (symbol "RES-0805_1_1"
       (polyline
         (pts
@@ -680,8 +695,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-1206" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5f23ce4d48870c860c" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-1206" (id 6) (at 0 0 0))
     (symbol "RES-1206_1_1"
       (polyline
         (pts
@@ -744,8 +762,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-1210" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6023ce4d48870c860e" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-1210" (id 6) (at 0 0 0))
     (symbol "RES-1210_1_1"
       (polyline
         (pts
@@ -808,8 +829,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-2010" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6023ce4d48870c8610" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-2010" (id 6) (at 0 0 0))
     (symbol "RES-2010_1_1"
       (polyline
         (pts
@@ -872,8 +896,11 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 4) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:RES-2512" (id 5) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6123ce4d48870c8612" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_description" "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAX1EFqpEDxxY%2BWVoR4gGooA " (id 5) (at 0 0 0))
+    (property "ki_fp_filters" "FlashPCB_Resistors:RES-2512" (id 6) (at 0 0 0))
     (symbol "RES-2512_1_1"
       (polyline
         (pts
@@ -936,7 +963,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:POT-3306F FlashPCB_Resistors:POT-3306K FlashPCB_Resistors:POT-3306P FlashPCB_Resistors:POT-3306W" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6223ce4d48870c8617" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Resistors:POT-3306F FlashPCB_Resistors:POT-3306K FlashPCB_Resistors:POT-3306P FlashPCB_Resistors:POT-3306W" (id 5) (at 0 0 0))
     (symbol "POT-THT-6MMROUND_1_1"
       (polyline
         (pts
@@ -1027,7 +1057,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:POT-3299P FlashPCB_Resistors:POT-3299W FlashPCB_Resistors:POT-3299X FlashPCB_Resistors:POT-3299Y FlashPCB_Resistors:POT-3299Z" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6323ce4d48870c861d" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Resistors:POT-3299P FlashPCB_Resistors:POT-3299W FlashPCB_Resistors:POT-3299X FlashPCB_Resistors:POT-3299Y FlashPCB_Resistors:POT-3299Z" (id 5) (at 0 0 0))
     (symbol "POT-THT-9.53MM_1_1"
       (polyline
         (pts
@@ -1118,7 +1151,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Resistors:POT-TC33" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba6323ce4d48870c861f" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Resistors:POT-TC33" (id 5) (at 0 0 0))
     (symbol "POT-SMT-JLEAD-3.8X3.6MM_1_1"
       (polyline
         (pts

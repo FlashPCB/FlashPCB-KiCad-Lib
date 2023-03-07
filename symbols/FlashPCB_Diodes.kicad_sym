@@ -10,7 +10,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0603" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1323ce4d48870c84ca" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0603" (id 5) (at 0 0 0))
     (symbol "LED-SMT-0603_1_1"
       (polyline
         (pts
@@ -109,7 +112,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0805" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1323ce4d48870c84cc" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0805" (id 5) (at 0 0 0))
     (symbol "LED-SMT-0805_1_1"
       (polyline
         (pts
@@ -208,7 +214,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-1206" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1423ce4d48870c84ce" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-1206" (id 5) (at 0 0 0))
     (symbol "LED-SMT-1206_1_1"
       (polyline
         (pts
@@ -307,7 +316,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-THT-3MMROUND" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1423ce4d48870c84d0" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-THT-3MMROUND" (id 5) (at 0 0 0))
     (symbol "LED-THT-3MMROUND_1_1"
       (polyline
         (pts
@@ -406,7 +418,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-THT-5MMROUND" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1523ce4d48870c84d2" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-THT-5MMROUND" (id 5) (at 0 0 0))
     (symbol "LED-THT-5MMROUND_1_1"
       (polyline
         (pts
@@ -505,7 +520,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1723ce4d48870c84e0" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 5) (at 0 0 0))
     (symbol "DIODE_1_1"
       (polyline
         (pts
@@ -568,7 +586,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1823ce4d48870c84e1" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 5) (at 0 0 0))
     (symbol "DIODE_SCHOTTKY_1_1"
       (polyline
         (pts
@@ -663,7 +684,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1a23ce4d48870c84e2" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:DO-214AC_SMA FlashPCB_Diodes:SMB FlashPCB_Diodes:SMC FlashPCB_Diodes:SMAF FlashPCB_Diodes:SMBF FlashPCB_Diodes:SOD-123 FlashPCB_Diodes:SOD-123FL FlashPCB_Diodes:SOD-128 FlashPCB_Diodes:SOD-323 FlashPCB_Diodes:SOD-323F FlashPCB_Diodes:SOD-523 FlashPCB_Diodes:SOD-723 FlashPCB_Diodes:SOD-80C" (id 5) (at 0 0 0))
     (symbol "DIODE_ZENER_1_1"
       (polyline
         (pts
@@ -742,7 +766,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0805 FlashPCB_Diodes:LED-1206" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1a23ce4d48870c84e3" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:LED-0805 FlashPCB_Diodes:LED-1206" (id 5) (at 0 0 0))
     (symbol "DIODE_PHOTODIODE_1_1"
       (polyline
         (pts
@@ -841,7 +868,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Diodes:SOT-323" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba1b23ce4d48870c84e5" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Diodes:SOT-323" (id 5) (at 0 0 0))
     (symbol "DIODE_DUAL_SCHOTTKY_1_1"
       (polyline
         (pts

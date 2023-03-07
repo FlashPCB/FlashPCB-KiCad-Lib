@@ -10,7 +10,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.20MMX1.00MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5423ce4d48870c85d8" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.20MMX1.00MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_1.20MMX1.00MM_1_1"
       (polyline
         (pts
@@ -81,7 +84,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.27MMX1.05MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5423ce4d48870c85da" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.27MMX1.05MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_1.27MMX1.05MM_1_1"
       (polyline
         (pts
@@ -152,7 +158,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.60MMX1.00MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5523ce4d48870c85dc" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.60MMX1.00MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_1.60MMX1.00MM_1_1"
       (polyline
         (pts
@@ -223,7 +232,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.65MMX1.05MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5523ce4d48870c85de" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_1.65MMX1.05MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_1.65MMX1.05MM_1_1"
       (polyline
         (pts
@@ -294,7 +306,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_2.00MMX1.20MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5523ce4d48870c85e0" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_2.00MMX1.20MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_2.00MMX1.20MM_1_1"
       (polyline
         (pts
@@ -365,7 +380,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_2.50MMX2.00MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5623ce4d48870c85e2" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_2.50MMX2.00MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_2.50MMX2.00MM_1_1"
       (polyline
         (pts
@@ -436,7 +454,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_3.20MMX1.50MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5623ce4d48870c85e4" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_3.20MMX1.50MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_3.20MMX1.50MM_1_1"
       (polyline
         (pts
@@ -507,7 +528,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_3.30MMX1.60MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5623ce4d48870c85e6" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_3.30MMX1.60MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_3.30MMX1.60MM_1_1"
       (polyline
         (pts
@@ -578,7 +602,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_4.10MMX1.50MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5723ce4d48870c85e8" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_4.10MMX1.50MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4.10MMX1.50MM_1_1"
       (polyline
         (pts
@@ -649,7 +676,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_4.90MMX1.80MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5723ce4d48870c85ea" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_4.90MMX1.80MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4.90MMX1.80MM_1_1"
       (polyline
         (pts
@@ -720,7 +750,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_5.00MMX3.20MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5823ce4d48870c85ec" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_5.00MMX3.20MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_5.00MMX3.20MM_1_1"
       (polyline
         (pts
@@ -791,7 +824,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_7.00MMX5.00MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5823ce4d48870c85ee" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_7.00MMX5.00MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_7.00MMX5.00MM_1_1"
       (polyline
         (pts
@@ -862,7 +898,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_8.00MMX4.50MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5823ce4d48870c85f0" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_NOLEAD_8.00MMX4.50MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_8.00MMX4.50MM_1_1"
       (polyline
         (pts
@@ -933,7 +972,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_FLATLEAD_8.00MMX3.80MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5923ce4d48870c85f2" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_FLATLEAD_8.00MMX3.80MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SMD_8.00MMX3.80MM_1_1"
       (polyline
         (pts
@@ -1004,7 +1046,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_2.00MMX1.60MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5923ce4d48870c85f4" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_2.00MMX1.60MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SMD_2.00MMX1.60MM_1_1"
       (polyline
         (pts
@@ -1099,7 +1144,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_2.5MMX2.0MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5a23ce4d48870c85f6" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_2.5MMX2.0MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SMD_2.5MMX2.0MM_1_1"
       (polyline
         (pts
@@ -1194,7 +1242,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_3.20MMX2.50MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5a23ce4d48870c85f8" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_3.20MMX2.50MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SMD_3.20MMX2.50MM_1_1"
       (polyline
         (pts
@@ -1289,7 +1340,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_5.00MMX3.20MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5a23ce4d48870c85fa" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_4-SMD_NOLEAD_5.00MMX3.20MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SMD_5.00MMX3.20MM_1_1"
       (polyline
         (pts
@@ -1384,7 +1438,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_FLATLEAD_7.00MMX4.10MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5b23ce4d48870c85fc" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL_2-SMD_FLATLEAD_7.00MMX4.10MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_FLATLEAD_7.00MMX4.10MM_1_1"
       (polyline
         (pts
@@ -1455,7 +1512,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL-SMD_4-SOJ_8.00MMX3.80MM" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5b23ce4d48870c85fe" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:CRYSTAL-SMD_4-SOJ_8.00MMX3.80MM" (id 5) (at 0 0 0))
     (symbol "CRYSTAL_4-SOJ_8.00MMX3.80MM_1_1"
       (polyline
         (pts
@@ -1526,7 +1586,10 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "ki_fp_filters" "FlashPCB_Oscillators:3-SMD" (id 4) (at 0 0 0))
+    (property "FlashPCB symbol ID" "6407ba5c23ce4d48870c8600" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_Oscillators:3-SMD" (id 5) (at 0 0 0))
     (symbol "RESINATOR_W-CAP_1_1"
       (polyline
         (pts
