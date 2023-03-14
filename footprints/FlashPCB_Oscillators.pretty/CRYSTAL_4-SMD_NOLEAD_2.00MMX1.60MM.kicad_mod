@@ -1,7 +1,7 @@
 (footprint "CRYSTAL_4-SMD_NOLEAD_2.00MMX1.60MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640f81ec2962b9e00e93d6d6")
+  (property "FlashPCB footprint ID" "640fcc4fd634f0f7708fe427")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

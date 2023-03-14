@@ -1,7 +1,7 @@
 (footprint "RJ45_THT_RA_BELFUSE-0826-1L1T-57-F" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640f80d52962b9e00e93d346")
+  (property "FlashPCB footprint ID" "640fcb9fd634f0f7708fe097")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
