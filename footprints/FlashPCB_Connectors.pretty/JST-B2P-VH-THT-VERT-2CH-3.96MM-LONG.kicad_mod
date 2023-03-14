@@ -1,7 +1,7 @@
 (footprint "JST-B2P-VH-THT-VERT-2CH-3.96MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb73d634f0f7708fdf07")
+  (property "FlashPCB footprint ID" "641097329cffea545632a718")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -33,7 +33,7 @@
   (fp_line (start 1.98 -3.7) (end 1.98 -2.7) (layer "F.SilkS") (width 0.127))
   (fp_line (start -1.98 -3.7) (end -1.98 -2.7) (layer "F.SilkS") (width 0.127))
   (fp_line (start -1.98 -2.7) (end 1.98 -2.7) (layer "F.SilkS") (width 0.127))
-  (pad "P$1" thru_hole oval (at -1.98 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "1" thru_hole oval (at -1.98 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -47,7 +47,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$2" thru_hole oval (at 1.98 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "2" thru_hole oval (at 1.98 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

@@ -1,7 +1,7 @@
 (footprint "MOUNT-HOLE-M4-PTH-NO-SILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcc33d634f0f7708fe34a")
+  (property "FlashPCB footprint ID" "641098299cffea545632ab5b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -49,7 +49,7 @@
   (fp_text reference ">Name" (at -1.67 -4.18 0 unlocked) (layer "F.SilkS")
     (effects (font (size 0.8128 0.694944) (thickness 0.12191999999999999)) (justify left bottom))
   )
-  (pad "P$1" thru_hole custom (at 0 0) (size 0.1 0.1) (drill 4.5) (layers *.Cu *.Mask)
+  (pad "1" thru_hole custom (at 0 0) (size 0.1 0.1) (drill 4.5) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (options (clearance outline) (anchor rect))
     (primitives

@@ -1,7 +1,7 @@
 (footprint "JST-SWR25X-NRTC-S7-RA-BA-THT-RA-7CH-2.54MM-LONG-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb89d634f0f7708fdfdd")
+  (property "FlashPCB footprint ID" "6410974d9cffea545632a7ee")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -32,7 +32,7 @@
   (fp_text user "Detent On Bottom(RB)" (at 0 4.8 0 unlocked) (layer "Dwgs.User")
     (effects (font (size 0.3 0.2565) (thickness 0.045)) (justify bottom))
   )
-  (pad "P$1" thru_hole oval (at -7.62 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "1" thru_hole oval (at -7.62 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -46,7 +46,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$2" thru_hole oval (at -5.08 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "2" thru_hole oval (at -5.08 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -60,7 +60,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$3" thru_hole oval (at -2.54 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "3" thru_hole oval (at -2.54 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -74,7 +74,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$4" thru_hole oval (at 0 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "4" thru_hole oval (at 0 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -88,7 +88,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$5" thru_hole oval (at 2.54 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "5" thru_hole oval (at 2.54 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -102,7 +102,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$6" thru_hole oval (at 5.08 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "6" thru_hole oval (at 5.08 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -116,7 +116,7 @@
           (xy 1.6666666666666667 -0.8333333333333334)
         ) (width 0.12))
     ))
-  (pad "P$7" thru_hole oval (at 7.62 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
+  (pad "7" thru_hole oval (at 7.62 0 90) (size 3.3333333333333335 1.6666666666666667) (drill 1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

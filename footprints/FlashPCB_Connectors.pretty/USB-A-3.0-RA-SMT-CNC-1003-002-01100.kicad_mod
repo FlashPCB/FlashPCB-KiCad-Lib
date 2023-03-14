@@ -1,7 +1,7 @@
 (footprint "USB-A-3.0-RA-SMT-CNC-1003-002-01100" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb9dd634f0f7708fe08c")
+  (property "FlashPCB footprint ID" "641097669cffea545632a89d")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -175,7 +175,7 @@
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
   (pad "S_2" smd rect (at 7.7 4.2) (size 1.6 2.2) (layers "F.Cu" "F.Mask" "F.Paste")
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
-  (pad "S$3" thru_hole oval (at -7.9 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask)
+  (pad "S_3" thru_hole oval (at -7.9 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -189,7 +189,7 @@
           (xy 0.5 -0.25)
         ) (width 0.12))
     ))
-  (pad "S$4" thru_hole oval (at 7.9 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask)
+  (pad "S_4" thru_hole oval (at 7.9 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

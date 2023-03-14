@@ -1,7 +1,7 @@
 (footprint "HDMI-2.0-2086581051" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcba1d634f0f7708fe0a5")
+  (property "FlashPCB footprint ID" "6410976b9cffea545632a8b6")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -11084,7 +11084,7 @@
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
   (pad "19" smd rect (at -4.5 -6.72) (size 0.3 2.6) (layers "F.Cu" "F.Mask" "F.Paste")
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
-  (pad "S$1" thru_hole oval (at -7.25 -5.96) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
+  (pad "S_1" thru_hole oval (at -7.25 -5.96) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -11098,7 +11098,7 @@
           (xy 0.75 -0.375)
         ) (width 0.12))
     ))
-  (pad "S$4" thru_hole oval (at -7.25 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
+  (pad "S_4" thru_hole oval (at -7.25 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -11112,7 +11112,7 @@
           (xy 0.75 -0.375)
         ) (width 0.12))
     ))
-  (pad "S$2" thru_hole oval (at 7.25 -5.96) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
+  (pad "S_2" thru_hole oval (at 7.25 -5.96) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -11126,7 +11126,7 @@
           (xy 0.75 -0.375)
         ) (width 0.12))
     ))
-  (pad "S$3" thru_hole oval (at 7.25 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
+  (pad "S_3" thru_hole oval (at 7.25 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

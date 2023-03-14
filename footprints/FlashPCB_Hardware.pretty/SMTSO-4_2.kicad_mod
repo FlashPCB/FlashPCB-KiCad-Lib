@@ -1,7 +1,7 @@
 (footprint "SMTSO-4_2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcc39d634f0f7708fe388")
+  (property "FlashPCB footprint ID" "641098319cffea545632ab99")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -103,7 +103,7 @@
     (effects (font (size 0.8128 0.694944) (thickness 0.12191999999999999)) (justify left bottom))
   )
   (fp_circle (center 0 0) (end 4.885 0) (layer "F.SilkS") (width 0.127) (fill none))
-  (pad "P$1" thru_hole oval (at 0 0) (size 9.37 9.37) (drill 6.39) (layers *.Cu *.Mask)
+  (pad "1" thru_hole oval (at 0 0) (size 9.37 9.37) (drill 6.39) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

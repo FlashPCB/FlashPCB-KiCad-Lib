@@ -1,7 +1,7 @@
 (footprint "USB-C_VERT_ASS_AUSB1-DFN-HSR4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb9cd634f0f7708fe07c")
+  (property "FlashPCB footprint ID" "641097649cffea545632a88d")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -116,7 +116,7 @@
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
   (pad "B_12" smd rect (at -2.75 0.835) (size 0.3 0.85) (layers "F.Cu" "F.Mask" "F.Paste")
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
-  (pad "S$1" thru_hole oval (at -2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_1" thru_hole oval (at -2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -130,7 +130,7 @@
           (xy 0.55 -0.275)
         ) (width 0.12))
     ))
-  (pad "S$2" thru_hole oval (at 2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_2" thru_hole oval (at 2.4 -2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -144,7 +144,7 @@
           (xy 0.55 -0.275)
         ) (width 0.12))
     ))
-  (pad "S$3" thru_hole oval (at -2.4 2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_3" thru_hole oval (at -2.4 2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -158,7 +158,7 @@
           (xy 0.55 -0.275)
         ) (width 0.12))
     ))
-  (pad "S$4" thru_hole oval (at 2.4 2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_4" thru_hole oval (at 2.4 2.15) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

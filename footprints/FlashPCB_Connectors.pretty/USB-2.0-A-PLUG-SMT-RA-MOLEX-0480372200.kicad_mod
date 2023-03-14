@@ -1,7 +1,7 @@
 (footprint "USB-2.0-A-PLUG-SMT-RA-MOLEX-0480372200" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb9ed634f0f7708fe095")
+  (property "FlashPCB footprint ID" "641097679cffea545632a8a6")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -197,7 +197,7 @@
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
   (pad "4" smd rect (at -3.5 -2.6) (size 1.2 2) (layers "F.Cu" "F.Mask" "F.Paste")
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5))
-  (pad "S$1" thru_hole oval (at -5.85 0) (size 1.1666666666666667 1.1666666666666667) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_1" thru_hole oval (at -5.85 0) (size 1.1666666666666667 1.1666666666666667) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -211,7 +211,7 @@
           (xy 0.5833333333333334 -0.2916666666666667)
         ) (width 0.12))
     ))
-  (pad "S$2" thru_hole oval (at 5.85 0) (size 1.1666666666666667 1.1666666666666667) (drill 0.7) (layers *.Cu *.Mask)
+  (pad "S_2" thru_hole oval (at 5.85 0) (size 1.1666666666666667 1.1666666666666667) (drill 0.7) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

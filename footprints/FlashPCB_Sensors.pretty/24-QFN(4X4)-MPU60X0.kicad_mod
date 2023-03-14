@@ -1,7 +1,7 @@
 (footprint "24-QFN(4X4)-MPU60X0" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcc58d634f0f7708fe464")
+  (property "FlashPCB footprint ID" "641098569cffea545632ac75")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

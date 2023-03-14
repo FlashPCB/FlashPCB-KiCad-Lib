@@ -1,7 +1,7 @@
 (footprint "POT-3299Y" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcc55d634f0f7708fe44f")
+  (property "FlashPCB footprint ID" "641098529cffea545632ac60")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -83,7 +83,7 @@
   (fp_line (start 0.0969 4.342009375) (end 0.2253 4.128609375) (layer "Dwgs.User") (width 0))
   (fp_line (start 0.2253 4.128609375) (end 0.304825 3.89259375) (layer "Dwgs.User") (width 0))
   (fp_line (start 0.304825 3.89259375) (end 0.331753125 3.645) (layer "Dwgs.User") (width 0))
-  (pad "P$1" thru_hole oval (at 0 2.54) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
+  (pad "1" thru_hole oval (at 0 2.54) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -97,7 +97,7 @@
           (xy 0.9166666666666666 -0.4583333333333333)
         ) (width 0.12))
     ))
-  (pad "P$2" thru_hole oval (at 2.54 0) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
+  (pad "2" thru_hole oval (at 2.54 0) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -111,7 +111,7 @@
           (xy 0.9166666666666666 -0.4583333333333333)
         ) (width 0.12))
     ))
-  (pad "P$3" thru_hole oval (at 0 -2.54) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
+  (pad "3" thru_hole oval (at 0 -2.54) (size 1.8333333333333333 1.8333333333333333) (drill 1.1) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts

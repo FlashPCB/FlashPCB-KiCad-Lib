@@ -1,7 +1,7 @@
 (footprint "MOUNT-HOLE-M2-PTH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcc31d634f0f7708fe337")
+  (property "FlashPCB footprint ID" "641098269cffea545632ab48")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -45,7 +45,7 @@
   )
   (fp_circle (center 0 0) (end 2.2 0) (layer "F.SilkS") (width 0.127) (fill none))
   (fp_circle (center 0 0) (end 2.2 0) (layer "B.SilkS") (width 0.127) (fill none))
-  (pad "P$1" thru_hole custom (at 0 0) (size 0.1 0.1) (drill 2.4) (layers *.Cu *.Mask)
+  (pad "1" thru_hole custom (at 0 0) (size 0.1 0.1) (drill 2.4) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (options (clearance outline) (anchor rect))
     (primitives

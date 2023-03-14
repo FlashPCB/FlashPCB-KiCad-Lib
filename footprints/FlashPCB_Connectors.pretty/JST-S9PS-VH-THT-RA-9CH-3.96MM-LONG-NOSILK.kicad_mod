@@ -1,7 +1,7 @@
 (footprint "JST-S9PS-VH-THT-RA-9CH-3.96MM-LONG-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "640fcb80d634f0f7708fdf81")
+  (property "FlashPCB footprint ID" "641097419cffea545632a792")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
@@ -42,7 +42,7 @@
   (fp_line (start 0 11) (end -0.4 10.4) (layer "Dwgs.User") (width 0))
   (fp_line (start 0 0) (end 0.4 0.6) (layer "Dwgs.User") (width 0))
   (fp_line (start 0 0) (end -0.4 0.6) (layer "Dwgs.User") (width 0))
-  (pad "P$1" thru_hole oval (at -15.84 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "1" thru_hole oval (at -15.84 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -56,7 +56,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$2" thru_hole oval (at -11.88 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "2" thru_hole oval (at -11.88 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -70,7 +70,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$3" thru_hole oval (at -7.92 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "3" thru_hole oval (at -7.92 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -84,7 +84,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$4" thru_hole oval (at -3.96 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "4" thru_hole oval (at -3.96 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -98,7 +98,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$5" thru_hole oval (at 0 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "5" thru_hole oval (at 0 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -112,7 +112,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$6" thru_hole oval (at 3.96 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "6" thru_hole oval (at 3.96 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -126,7 +126,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$7" thru_hole oval (at 7.92 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "7" thru_hole oval (at 7.92 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -140,7 +140,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$8" thru_hole oval (at 11.88 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "8" thru_hole oval (at 11.88 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
@@ -154,7 +154,7 @@
           (xy 2.75 -1.375)
         ) (width 0.12))
     ))
-  (pad "P$9" thru_hole oval (at 15.84 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
+  (pad "9" thru_hole oval (at 15.84 0 90) (size 5.5 2.75) (drill 1.65) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1) (zone_connect 1) (thermal_gap 0.5)
     (primitives
       (gr_poly (pts
