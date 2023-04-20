@@ -10,7 +10,7 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "FlashPCB symbol ID" "641096dd9cffea545632a4c7" (id 4) (at 0 0 0)
+    (property "FlashPCB symbol ID" "6441b941e829a80b26841e1e" (id 4) (at 0 0 0)
       (effects (font (size 1 1)) hide)
     )
     (property "ki_fp_filters" "FlashPCB_CircuitProtection:DO-214AC_SMA FlashPCB_CircuitProtection:SMB FlashPCB_CircuitProtection:SMC FlashPCB_CircuitProtection:SMAF FlashPCB_CircuitProtection:SMBF FlashPCB_CircuitProtection:SOD-123 FlashPCB_CircuitProtection:SOD-123FL FlashPCB_CircuitProtection:SOD-128 FlashPCB_CircuitProtection:SOD-323 FlashPCB_CircuitProtection:SOD-323F FlashPCB_CircuitProtection:SOD-523 FlashPCB_CircuitProtection:SOD-723 FlashPCB_CircuitProtection:SOD-80C" (id 5) (at 0 0 0))
@@ -20,7 +20,7 @@
           (xy 2.54 1.905)
           (xy 2.54 -1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -28,7 +28,7 @@
           (xy 0 -2.54)
           (xy 0 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -36,7 +36,7 @@
           (xy 0 0)
           (xy 0 1.9812)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -44,7 +44,7 @@
           (xy 0 0)
           (xy 2.54 1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -52,7 +52,7 @@
           (xy 2.54 -1.905)
           (xy 0 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -60,7 +60,7 @@
           (xy 0 -2.54)
           (xy 0.508 -3.048)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -68,7 +68,7 @@
           (xy -1.016 3.048)
           (xy -0.508 2.54)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -76,7 +76,7 @@
           (xy -0.508 2.54)
           (xy 0 2.032)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -84,7 +84,7 @@
           (xy -0.508 2.54)
           (xy -0.508 -2.032)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -92,7 +92,7 @@
           (xy -0.508 -2.032)
           (xy 0 -2.54)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (pin passive line (at -2.54 0 0) (length 2.54)
@@ -116,7 +116,7 @@
       (effects (font (size 1 1)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0))
-    (property "FlashPCB symbol ID" "641096df9cffea545632a4d5" (id 4) (at 0 0 0)
+    (property "FlashPCB symbol ID" "6441b942e829a80b26841e2c" (id 4) (at 0 0 0)
       (effects (font (size 1 1)) hide)
     )
     (property "ki_fp_filters" "FlashPCB_CircuitProtection:DO-214AC_SMA FlashPCB_CircuitProtection:SMB FlashPCB_CircuitProtection:SMC FlashPCB_CircuitProtection:SMAF FlashPCB_CircuitProtection:SMBF FlashPCB_CircuitProtection:SOD-123 FlashPCB_CircuitProtection:SOD-123FL FlashPCB_CircuitProtection:SOD-128 FlashPCB_CircuitProtection:SOD-323 FlashPCB_CircuitProtection:SOD-323F FlashPCB_CircuitProtection:SOD-523 FlashPCB_CircuitProtection:SOD-723 FlashPCB_CircuitProtection:SOD-80C" (id 5) (at 0 0 0))
@@ -126,7 +126,7 @@
           (xy 2.54 1.905)
           (xy 2.54 -1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -134,7 +134,7 @@
           (xy 0.254 -2.54)
           (xy 0.254 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -142,7 +142,7 @@
           (xy 0.254 0)
           (xy 0.254 1.9812)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -150,7 +150,7 @@
           (xy 0.254 0)
           (xy 2.54 1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -158,7 +158,7 @@
           (xy 2.54 -1.905)
           (xy 0.254 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -166,7 +166,7 @@
           (xy 0.254 -2.54)
           (xy 0.762 -3.048)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -174,7 +174,7 @@
           (xy -0.762 3.048)
           (xy -0.254 2.54)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -182,7 +182,7 @@
           (xy -0.254 2.54)
           (xy 0.254 2.032)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -190,7 +190,7 @@
           (xy -0.254 2.54)
           (xy -0.254 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -198,7 +198,7 @@
           (xy -0.254 0)
           (xy -0.254 -2.032)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -206,7 +206,7 @@
           (xy -0.254 -2.032)
           (xy 0.254 -2.54)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -214,7 +214,7 @@
           (xy -0.254 0)
           (xy -2.54 1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -222,7 +222,7 @@
           (xy -2.54 1.905)
           (xy -2.54 -1.905)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (polyline
@@ -230,7 +230,7 @@
           (xy -2.54 -1.905)
           (xy -0.254 0)
         )
-        (stroke (width 0.1524) (type dash) (color 0 0 0 0))
+        (stroke (width 0.1524))
         (fill (type none))
       )
       (pin passive line (at -5.08 0 0) (length 2.54)

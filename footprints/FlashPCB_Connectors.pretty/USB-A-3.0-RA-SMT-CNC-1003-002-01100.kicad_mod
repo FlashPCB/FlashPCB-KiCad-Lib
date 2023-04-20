@@ -1,7 +1,7 @@
 (footprint "USB-A-3.0-RA-SMT-CNC-1003-002-01100" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "641097669cffea545632a89d")
+  (property "FlashPCB footprint ID" "6441b99ce829a80b26842412")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

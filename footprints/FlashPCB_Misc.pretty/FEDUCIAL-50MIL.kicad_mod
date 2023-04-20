@@ -1,7 +1,7 @@
 (footprint "FEDUCIAL-50MIL" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "641098459cffea545632ac06")
+  (property "FlashPCB footprint ID" "6441b9cde829a80b2684258a")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

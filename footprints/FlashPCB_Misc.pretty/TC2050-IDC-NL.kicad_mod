@@ -1,7 +1,7 @@
 (footprint "TC2050-IDC-NL" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "641098469cffea545632ac14")
+  (property "FlashPCB footprint ID" "6441b9cee829a80b2684258f")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "JST-S9B-PH-K-THT-RA-9CH-2.0MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "641097239cffea545632a6ae")
+  (property "FlashPCB footprint ID" "6441b975e829a80b26842168")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
