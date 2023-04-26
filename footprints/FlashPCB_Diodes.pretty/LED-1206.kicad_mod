@@ -1,7 +1,7 @@
 (footprint "LED-1206" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6441b9b9e829a80b26842455")
+  (property "FlashPCB footprint ID" "64499caf8375f46b02b2b679")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

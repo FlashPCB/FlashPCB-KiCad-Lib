@@ -1,0 +1,246 @@
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "DIODE_TVS" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at -2.54 3.81 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Value" "DIODE_TVS" (id 1) (at -2.54 -5.08 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Footprint" "FlashPCB_CircuitProtection:DO-214AC_SMA" (id 2) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0))
+    (property "FlashPCB symbol ID" "642f210812a1f321f3e09aed" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_CircuitProtection:DO-214AC_SMA FlashPCB_CircuitProtection:SMB FlashPCB_CircuitProtection:SMC FlashPCB_CircuitProtection:SMAF FlashPCB_CircuitProtection:SMBF FlashPCB_CircuitProtection:SOD-123 FlashPCB_CircuitProtection:SOD-123FL FlashPCB_CircuitProtection:SOD-128 FlashPCB_CircuitProtection:SOD-323 FlashPCB_CircuitProtection:SOD-323F FlashPCB_CircuitProtection:SOD-523 FlashPCB_CircuitProtection:SOD-723 FlashPCB_CircuitProtection:SOD-80C" (id 5) (at 0 0 0))
+    (symbol "DIODE_TVS_1_1"
+      (polyline
+        (pts
+          (xy 2.54 1.905)
+          (xy 2.54 -1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy 0 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 1.9812)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 2.54 1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -1.905)
+          (xy 0 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -2.54)
+          (xy 0.508 -3.048)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.016 3.048)
+          (xy -0.508 2.54)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.508 2.54)
+          (xy 0 2.032)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.508 2.54)
+          (xy -0.508 -2.032)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.508 -2.032)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (pin passive line (at -2.54 0 0) (length 2.54)
+        (name "CATHODE" (effects (font (size 0 0))))
+        (number "CATHODE" (effects (font (size 0 0))))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "ANODE" (effects (font (size 0 0))))
+        (number "ANODE" (effects (font (size 0 0))))
+      )
+    )
+  )
+  (symbol "DIODE_TVS_BIDIRECTIONAL" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at -2.54 3.81 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Value" "DIODE_TVS_BIDIRECTIONAL" (id 1) (at -2.54 -5.08 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Footprint" "FlashPCB_CircuitProtection:DO-214AC_SMA" (id 2) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0))
+    (property "FlashPCB symbol ID" "642f210912a1f321f3e09afb" (id 4) (at 0 0 0)
+      (effects (font (size 1 1)) hide)
+    )
+    (property "ki_fp_filters" "FlashPCB_CircuitProtection:DO-214AC_SMA FlashPCB_CircuitProtection:SMB FlashPCB_CircuitProtection:SMC FlashPCB_CircuitProtection:SMAF FlashPCB_CircuitProtection:SMBF FlashPCB_CircuitProtection:SOD-123 FlashPCB_CircuitProtection:SOD-123FL FlashPCB_CircuitProtection:SOD-128 FlashPCB_CircuitProtection:SOD-323 FlashPCB_CircuitProtection:SOD-323F FlashPCB_CircuitProtection:SOD-523 FlashPCB_CircuitProtection:SOD-723 FlashPCB_CircuitProtection:SOD-80C" (id 5) (at 0 0 0))
+    (symbol "DIODE_TVS_BIDIRECTIONAL_1_1"
+      (polyline
+        (pts
+          (xy 2.54 1.905)
+          (xy 2.54 -1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.254 -2.54)
+          (xy 0.254 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.254 0)
+          (xy 0.254 1.9812)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.254 0)
+          (xy 2.54 1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -1.905)
+          (xy 0.254 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.254 -2.54)
+          (xy 0.762 -3.048)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.762 3.048)
+          (xy -0.254 2.54)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 2.54)
+          (xy 0.254 2.032)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 2.54)
+          (xy -0.254 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 0)
+          (xy -0.254 -2.032)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 -2.032)
+          (xy 0.254 -2.54)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 0)
+          (xy -2.54 1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.905)
+          (xy -2.54 -1.905)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -1.905)
+          (xy -0.254 0)
+        )
+        (stroke (width 0.1524))
+        (fill (type none))
+      )
+      (pin passive line (at -5.08 0 0) (length 2.54)
+        (name "CATHODE" (effects (font (size 0 0))))
+        (number "CATHODE" (effects (font (size 0 0))))
+      )
+      (pin passive line (at 5.08 0 180) (length 2.54)
+        (name "ANODE" (effects (font (size 0 0))))
+        (number "ANODE" (effects (font (size 0 0))))
+      )
+    )
+  )
+)

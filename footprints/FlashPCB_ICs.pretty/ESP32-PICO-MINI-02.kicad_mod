@@ -1,7 +1,7 @@
 (footprint "ESP32-PICO-MINI-02" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6441b9c5e829a80b26842510")
+  (property "FlashPCB footprint ID" "64499cba8375f46b02b2b714")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

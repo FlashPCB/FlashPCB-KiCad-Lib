@@ -1,7 +1,7 @@
 (footprint "14-LGA(2.5X3)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6441b9d5e829a80b268425f9")
+  (property "FlashPCB footprint ID" "64499cc98375f46b02b2b7fd")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
