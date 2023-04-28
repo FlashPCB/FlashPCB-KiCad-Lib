@@ -1,7 +1,7 @@
 (footprint "CAP-ALUM-18MM_DIA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64499c348375f46b02b2b002")
+  (property "FlashPCB footprint ID" "644b461143202bb382e5f067")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

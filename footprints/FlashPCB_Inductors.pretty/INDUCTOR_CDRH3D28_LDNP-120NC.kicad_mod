@@ -1,7 +1,7 @@
 (footprint "INDUCTOR_CDRH3D28_LDNP-120NC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64499cc18375f46b02b2b778")
+  (property "FlashPCB footprint ID" "644b46cc43202bb382e5f7ee")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

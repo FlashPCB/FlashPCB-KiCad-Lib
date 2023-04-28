@@ -1,7 +1,7 @@
 (footprint "DVI-I-MOLEX-0743201004" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64499c388375f46b02b2b042")
+  (property "FlashPCB footprint ID" "644b461643202bb382e5f0a7")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
