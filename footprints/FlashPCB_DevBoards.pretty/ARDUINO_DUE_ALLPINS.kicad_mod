@@ -1,7 +1,7 @@
 (footprint "ARDUINO_DUE_ALLPINS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6450258f3549ca2cb1be60ce")
+  (property "FlashPCB footprint ID" "645028ce2a8ab51dd63e7013")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
