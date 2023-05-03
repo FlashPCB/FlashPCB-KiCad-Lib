@@ -1,7 +1,7 @@
 (footprint "JST-SM15B-SRSS-TB-SH-SMT-RA-15CH-1.0MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645028872a8ab51dd63e6d73")
+  (property "FlashPCB footprint ID" "6452799938ed69ace9bfa289")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "JST-S4B-PH-SM4-TB-SMT4-RA-4CH-2.0MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645028812a8ab51dd63e6d14")
+  (property "FlashPCB footprint ID" "6452799238ed69ace9bfa22a")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

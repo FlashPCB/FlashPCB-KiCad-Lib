@@ -1,7 +1,7 @@
 (footprint "TE-282834-2-THT-RA-2_54MM-2CH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645028b02a8ab51dd63e6fb9")
+  (property "FlashPCB footprint ID" "645279c638ed69ace9bfa4cf")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

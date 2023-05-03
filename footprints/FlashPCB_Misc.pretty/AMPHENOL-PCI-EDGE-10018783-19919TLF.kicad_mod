@@ -1,7 +1,7 @@
 (footprint "AMPHENOL-PCI-EDGE-10018783-19919TLF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645028ea2a8ab51dd63e7181")
+  (property "FlashPCB footprint ID" "64527a1138ed69ace9bfa699")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
