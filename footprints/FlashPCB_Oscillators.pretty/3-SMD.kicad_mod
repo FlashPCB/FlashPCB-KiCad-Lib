@@ -1,7 +1,7 @@
 (footprint "3-SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64527a1638ed69ace9bfa6db")
+  (property "FlashPCB footprint ID" "6454606b24208b683118ddd3")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

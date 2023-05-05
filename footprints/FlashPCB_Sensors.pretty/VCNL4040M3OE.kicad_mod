@@ -1,7 +1,7 @@
 (footprint "VCNL4040M3OE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64527a1d38ed69ace9bfa72a")
+  (property "FlashPCB footprint ID" "6454607124208b683118de22")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

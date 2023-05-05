@@ -1,7 +1,7 @@
 (footprint "SOD-323" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6452795338ed69ace9bf9f35")
+  (property "FlashPCB footprint ID" "64545fba24208b683118d62b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

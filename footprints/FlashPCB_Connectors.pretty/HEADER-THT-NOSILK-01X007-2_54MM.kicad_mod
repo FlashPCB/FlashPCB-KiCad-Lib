@@ -1,7 +1,7 @@
 (footprint "HEADER-THT-NOSILK-01X007-2_54MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6452795d38ed69ace9bf9fac")
+  (property "FlashPCB footprint ID" "64545fc324208b683118d6a2")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

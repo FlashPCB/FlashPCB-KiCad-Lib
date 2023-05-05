@@ -1,7 +1,7 @@
 (footprint "RJ45_THT_RA_AMPH-54602-908LF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645279c538ed69ace9bfa4c9")
+  (property "FlashPCB footprint ID" "6454602a24208b683118dbbf")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

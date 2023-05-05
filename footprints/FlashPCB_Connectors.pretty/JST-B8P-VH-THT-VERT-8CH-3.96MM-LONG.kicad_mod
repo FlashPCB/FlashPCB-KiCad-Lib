@@ -1,7 +1,7 @@
 (footprint "JST-B8P-VH-THT-VERT-8CH-3.96MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645279b438ed69ace9bfa3f5")
+  (property "FlashPCB footprint ID" "6454601b24208b683118daeb")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
