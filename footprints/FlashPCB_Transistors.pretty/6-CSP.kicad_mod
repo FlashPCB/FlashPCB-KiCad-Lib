@@ -1,7 +1,7 @@
 (footprint "6-CSP" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6454607a24208b683118dea3")
+  (property "FlashPCB footprint ID" "64547fec9bc033bb611435a7")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

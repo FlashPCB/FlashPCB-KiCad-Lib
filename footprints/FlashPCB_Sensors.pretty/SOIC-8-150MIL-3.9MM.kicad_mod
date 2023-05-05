@@ -1,7 +1,7 @@
 (footprint "SOIC-8-150MIL-3.9MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6454607024208b683118de1c")
+  (property "FlashPCB footprint ID" "64547fe09bc033bb61143508")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
