@@ -1,7 +1,7 @@
 (footprint "USB-2.0-A-PLUG-SMT-RA-MOLEX-0480372200" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645a78f271cb2a47af0c7355")
+  (property "FlashPCB footprint ID" "645b03fdced09b65ca132b97")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

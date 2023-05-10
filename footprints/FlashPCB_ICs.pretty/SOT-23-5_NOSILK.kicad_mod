@@ -1,7 +1,7 @@
 (footprint "SOT-23-5_NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645a791b71cb2a47af0c747c")
+  (property "FlashPCB footprint ID" "645b043aced09b65ca132cfb")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "INDUCTOR_CR75-680KC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645a792171cb2a47af0c74d7")
+  (property "FlashPCB footprint ID" "645b043eced09b65ca132d1b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "JST-SWR25X-NRTC-S19-ST-BA-THT-VERT-19CH-2.54MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645a78d871cb2a47af0c7145")
+  (property "FlashPCB footprint ID" "645b03d6ced09b65ca132987")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
