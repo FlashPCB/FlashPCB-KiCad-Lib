@@ -1,7 +1,7 @@
 (footprint "4-UDFN(1.0X1.0)-NOSLIK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645b0439ced09b65ca132cea")
+  (property "FlashPCB footprint ID" "645b2f4d5e99a3a6928aa6da")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

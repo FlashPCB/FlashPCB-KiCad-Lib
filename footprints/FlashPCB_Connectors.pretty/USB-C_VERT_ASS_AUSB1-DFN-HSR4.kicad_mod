@@ -1,7 +1,7 @@
 (footprint "USB-C_VERT_ASS_AUSB1-DFN-HSR4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645b03fbced09b65ca132b7c")
+  (property "FlashPCB footprint ID" "645b2f0e5e99a3a6928aa568")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
