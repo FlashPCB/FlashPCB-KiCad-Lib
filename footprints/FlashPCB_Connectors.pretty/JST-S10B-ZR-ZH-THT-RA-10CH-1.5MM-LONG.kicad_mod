@@ -1,7 +1,7 @@
 (footprint "JST-S10B-ZR-ZH-THT-RA-10CH-1.5MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "645b3642409e71b0b48a7d3c")
+  (property "FlashPCB footprint ID" "646648defd8a4656d960684f")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
