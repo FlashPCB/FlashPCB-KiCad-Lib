@@ -1,7 +1,7 @@
 (footprint "USB-A-3.0-VERT-THT-MOLEX-0484080003" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "646648ebfd8a4656d9606948")
+  (property "FlashPCB footprint ID" "64703f8ab54874ee858264d1")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
