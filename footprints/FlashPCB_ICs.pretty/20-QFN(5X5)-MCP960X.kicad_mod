@@ -1,7 +1,7 @@
 (footprint "20-QFN(5X5)-MCP960X" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64703fc3b54874ee8582660f")
+  (property "FlashPCB footprint ID" "6478f57d789309e680d2381d")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

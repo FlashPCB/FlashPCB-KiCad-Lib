@@ -1,7 +1,7 @@
 (footprint "TESTPOINT_SMT_40MIL" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64703fcdb54874ee8582668f")
+  (property "FlashPCB footprint ID" "6478f589789309e680d2389d")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

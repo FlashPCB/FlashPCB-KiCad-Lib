@@ -1,7 +1,7 @@
 (footprint "CAP-EIA-3528" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64703f1ab54874ee85825ed4")
+  (property "FlashPCB footprint ID" "6478f4bf789309e680d230e0")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

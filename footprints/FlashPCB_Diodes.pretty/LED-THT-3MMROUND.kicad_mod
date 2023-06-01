@@ -1,7 +1,7 @@
 (footprint "LED-THT-3MMROUND" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64703fb3b54874ee85826536")
+  (property "FlashPCB footprint ID" "6478f567789309e680d23742")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
