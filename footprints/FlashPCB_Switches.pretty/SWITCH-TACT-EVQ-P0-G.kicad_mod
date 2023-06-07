@@ -1,7 +1,7 @@
 (footprint "SWITCH-TACT-EVQ-P0-G" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6478f599789309e680d23941")
+  (property "FlashPCB footprint ID" "6480d4e54d989c0576167004")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

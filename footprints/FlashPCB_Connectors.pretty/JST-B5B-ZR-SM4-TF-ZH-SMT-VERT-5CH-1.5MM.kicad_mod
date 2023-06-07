@@ -1,7 +1,7 @@
 (footprint "JST-B5B-ZR-SM4-TF-ZH-SMT-VERT-5CH-1.5MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6478f52b789309e680d23643")
+  (property "FlashPCB footprint ID" "6480d46b4d989c0576166d00")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
