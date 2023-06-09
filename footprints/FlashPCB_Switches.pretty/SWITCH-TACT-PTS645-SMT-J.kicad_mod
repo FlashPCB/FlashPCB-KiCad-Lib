@@ -1,7 +1,7 @@
 (footprint "SWITCH-TACT-PTS645-SMT-J" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6480d4e54d989c057616700f")
+  (property "FlashPCB footprint ID" "648360736e54126936cac968")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
