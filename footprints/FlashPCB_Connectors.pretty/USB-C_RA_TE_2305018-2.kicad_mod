@@ -1,7 +1,7 @@
 (footprint "USB-C_RA_TE_2305018-2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64835fbd6e54126936cac6d9")
+  (property "FlashPCB footprint ID" "648a2fb565173024727052c3")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

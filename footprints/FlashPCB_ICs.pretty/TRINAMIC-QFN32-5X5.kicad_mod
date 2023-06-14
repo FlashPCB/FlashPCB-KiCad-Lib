@@ -1,7 +1,7 @@
 (footprint "TRINAMIC-QFN32-5X5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "648360416e54126936cac85f")
+  (property "FlashPCB footprint ID" "648a30256517302472705449")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

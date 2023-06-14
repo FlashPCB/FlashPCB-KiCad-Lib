@@ -1,7 +1,7 @@
 (footprint "SMTSO-M1_4-NO_OUTLINE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "648360256e54126936cac7be")
+  (property "FlashPCB footprint ID" "648a300a65173024727053a8")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
