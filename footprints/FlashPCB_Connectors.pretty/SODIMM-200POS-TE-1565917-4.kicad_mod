@@ -1,7 +1,7 @@
 (footprint "SODIMM-200POS-TE-1565917-4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "648a2fb465173024727052bf")
+  (property "FlashPCB footprint ID" "649dd90f7021bbf209fa1ca5")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

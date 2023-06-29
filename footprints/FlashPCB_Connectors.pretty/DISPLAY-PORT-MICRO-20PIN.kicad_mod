@@ -1,7 +1,7 @@
 (footprint "DISPLAY-PORT-MICRO-20PIN" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "648a2ecd6517302472704d03")
+  (property "FlashPCB footprint ID" "649dd8157021bbf209fa16e9")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

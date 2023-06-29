@@ -1,7 +1,7 @@
 (footprint "JST-BM20B-SRSS-TB-SH-SMT-VERT-20CH-1.0MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "648a2f586517302472705054")
+  (property "FlashPCB footprint ID" "649dd8a97021bbf209fa1a3a")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
