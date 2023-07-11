@@ -1,7 +1,7 @@
 (footprint "14-TSSOP(4.4MMX5.0MM)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "649dd9847021bbf209fa1dd2")
+  (property "FlashPCB footprint ID" "64ada139d225ef26144b2d32")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

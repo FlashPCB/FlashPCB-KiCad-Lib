@@ -1,7 +1,7 @@
 (footprint "JST-B2B-PH-K-THT-VERT-2CH-2.0MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "649dd8947021bbf209fa19b2")
+  (property "FlashPCB footprint ID" "64ada0afd225ef26144b28c5")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

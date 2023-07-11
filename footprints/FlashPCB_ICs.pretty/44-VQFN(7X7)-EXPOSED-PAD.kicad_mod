@@ -1,7 +1,7 @@
 (footprint "44-VQFN(7X7)-EXPOSED-PAD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "649dd9827021bbf209fa1dc6")
+  (property "FlashPCB footprint ID" "64ada131d225ef26144b2cd9")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
