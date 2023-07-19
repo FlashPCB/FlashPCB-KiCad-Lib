@@ -1,7 +1,7 @@
 (footprint "INDUCTOR_11.15MMX10.00MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ada144d225ef26144b2d9a")
+  (property "FlashPCB footprint ID" "64b8561615b50015b7361daa")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

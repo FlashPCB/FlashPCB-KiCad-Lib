@@ -1,7 +1,7 @@
 (footprint "JST-S10B-PH-SM4-TB-SMT4-RA-10CH-2.0MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ada0a8d225ef26144b2872")
+  (property "FlashPCB footprint ID" "64b8555d15b50015b7361882")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
