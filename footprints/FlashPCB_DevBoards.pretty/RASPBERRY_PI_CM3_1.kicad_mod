@@ -1,7 +1,7 @@
 (footprint "RASPBERRY_PI_CM3_1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64cc0db286cde6c2d8fa3647")
+  (property "FlashPCB footprint ID" "64d3cd9f9a3c4ebe7293e0d5")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

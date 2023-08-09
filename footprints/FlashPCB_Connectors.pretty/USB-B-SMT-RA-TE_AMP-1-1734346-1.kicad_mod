@@ -1,7 +1,7 @@
 (footprint "USB-B-SMT-RA-TE_AMP-1-1734346-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64cc0d8486cde6c2d8fa3628")
+  (property "FlashPCB footprint ID" "64d3cd759a3c4ebe7293e0b6")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

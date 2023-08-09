@@ -1,7 +1,7 @@
 (footprint "PHX-1935239-THT-RA-5MM-9CH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64cc0d7986cde6c2d8fa35ee")
+  (property "FlashPCB footprint ID" "64d3cd6a9a3c4ebe7293e07c")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
