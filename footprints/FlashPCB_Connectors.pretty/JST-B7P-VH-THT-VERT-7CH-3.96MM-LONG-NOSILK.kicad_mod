@@ -1,7 +1,7 @@
 (footprint "JST-B7P-VH-THT-VERT-7CH-3.96MM-LONG-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64d3cd2e9a3c4ebe7293df76")
+  (property "FlashPCB footprint ID" "64df978c2e2e64bfc1f188b8")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

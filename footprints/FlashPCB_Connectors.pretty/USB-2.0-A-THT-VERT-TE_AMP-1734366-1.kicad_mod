@@ -1,7 +1,7 @@
 (footprint "USB-2.0-A-THT-VERT-TE_AMP-1734366-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64d3cd719a3c4ebe7293e0a1")
+  (property "FlashPCB footprint ID" "64df97d52e2e64bfc1f189e3")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
