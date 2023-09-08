@@ -61,6 +61,6 @@ via [our site's contact page](https://www.flashpcb.com/contact).
 
 ## Do you use a different CAD software?
 
-- [KiCad](https://github.com/FlashPCB/FlashPCB-Eagle-Lib/)
+- [Autodesk Eagle](https://github.com/FlashPCB/FlashPCB-Eagle-Lib/)
 
 We are working on supporting more CAD programs in the future. Check back here later for links to our other libraries.
