@@ -1,7 +1,7 @@
 (footprint "ARDUINO_MEGA_SHIELD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64df98022e2e64bfc1f18a08")
+  (property "FlashPCB footprint ID" "64fb24a1aa370964b8e15f84")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

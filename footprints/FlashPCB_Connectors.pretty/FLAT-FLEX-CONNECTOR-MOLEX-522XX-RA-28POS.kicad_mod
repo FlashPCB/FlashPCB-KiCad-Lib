@@ -1,7 +1,7 @@
 (footprint "FLAT-FLEX-CONNECTOR-MOLEX-522XX-RA-28POS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64df967a2e2e64bfc1f18435")
+  (property "FlashPCB footprint ID" "64fb21bcaa370964b8e159b1")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

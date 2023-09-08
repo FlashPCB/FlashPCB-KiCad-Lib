@@ -1,7 +1,7 @@
 (footprint "ANT-KYOCERA-1001312" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64c03c29bb3f74a750e4d989")
+  (property "FlashPCB footprint ID" "64fb2588aa370964b8e1618e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
