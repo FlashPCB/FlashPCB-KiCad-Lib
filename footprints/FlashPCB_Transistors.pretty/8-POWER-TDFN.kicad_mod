@@ -1,7 +1,7 @@
 (footprint "8-POWER-TDFN" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb2617aa370964b8e162f9")
+  (property "FlashPCB footprint ID" "64ff35ad2f27eb41304b9680")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

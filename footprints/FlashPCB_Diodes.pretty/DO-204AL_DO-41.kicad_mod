@@ -1,7 +1,7 @@
 (footprint "DO-204AL_DO-41" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb24cfaa370964b8e15fcd")
+  (property "FlashPCB footprint ID" "64ff34ab2f27eb41304b931e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "HEADER-SMT-02X005-1_27MM_FTSH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb21aaaa370964b8e15988")
+  (property "FlashPCB footprint ID" "64ff32682f27eb41304b8ce9")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

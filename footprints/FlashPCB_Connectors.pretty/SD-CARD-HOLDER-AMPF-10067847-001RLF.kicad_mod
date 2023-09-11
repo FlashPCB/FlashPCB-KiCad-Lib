@@ -1,7 +1,7 @@
 (footprint "SD-CARD-HOLDER-AMPF-10067847-001RLF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb2432aa370964b8e15f4b")
+  (property "FlashPCB footprint ID" "64ff344f2f27eb41304b92ac")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

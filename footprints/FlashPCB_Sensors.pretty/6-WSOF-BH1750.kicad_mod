@@ -1,7 +1,7 @@
 (footprint "6-WSOF-BH1750" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb25bbaa370964b8e1620d")
+  (property "FlashPCB footprint ID" "64ff356a2f27eb41304b9594")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

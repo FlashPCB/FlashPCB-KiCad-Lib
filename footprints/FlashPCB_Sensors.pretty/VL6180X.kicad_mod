@@ -1,7 +1,7 @@
 (footprint "VL6180X" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb25d6aa370964b8e1625b")
+  (property "FlashPCB footprint ID" "64ff357f2f27eb41304b95e2")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

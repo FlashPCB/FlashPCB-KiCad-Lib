@@ -1,7 +1,7 @@
 (footprint "TSOP75X-VERT" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64fb25c4aa370964b8e16228")
+  (property "FlashPCB footprint ID" "64ff35712f27eb41304b95af")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
