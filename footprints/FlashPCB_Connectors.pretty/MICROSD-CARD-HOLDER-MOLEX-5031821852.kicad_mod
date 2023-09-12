@@ -1,7 +1,7 @@
 (footprint "MICROSD-CARD-HOLDER-MOLEX-5031821852" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ff343e2f27eb41304b9273")
+  (property "FlashPCB footprint ID" "6500d97a98d22e8b42c88db7")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "TO-220-3_THT_RA_WO_PASTE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ff35262f27eb41304b94be")
+  (property "FlashPCB footprint ID" "6500dabd98d22e8b42c89004")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

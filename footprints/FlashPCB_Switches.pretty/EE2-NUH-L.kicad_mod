@@ -1,7 +1,7 @@
 (footprint "EE2-NUH-L" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ff35872f27eb41304b95f9")
+  (property "FlashPCB footprint ID" "6500db4598d22e8b42c89141")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "BATT_RETAINER_COIN_12MM_2895" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "64ff34b82f27eb41304b9343")
+  (property "FlashPCB footprint ID" "6500da2898d22e8b42c88e89")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
