@@ -1,7 +1,7 @@
 (footprint "JST-B9B-PH-SM4-TB-SMT-VERT-9CH-2.0MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500d86598d22e8b42c88b61")
+  (property "FlashPCB footprint ID" "65021c68c2428e5289317219")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

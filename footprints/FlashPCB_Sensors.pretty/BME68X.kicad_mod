@@ -1,7 +1,7 @@
 (footprint "BME68X" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500db1f98d22e8b42c890de")
+  (property "FlashPCB footprint ID" "65021e8fc2428e528931779e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

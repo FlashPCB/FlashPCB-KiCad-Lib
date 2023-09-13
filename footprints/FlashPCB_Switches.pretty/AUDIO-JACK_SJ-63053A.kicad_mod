@@ -1,7 +1,7 @@
 (footprint "AUDIO-JACK_SJ-63053A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500db3c98d22e8b42c8912c")
+  (property "FlashPCB footprint ID" "65021ea6c2428e52893177ec")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

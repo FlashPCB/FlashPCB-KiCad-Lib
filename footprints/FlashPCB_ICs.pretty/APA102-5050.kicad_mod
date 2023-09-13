@@ -1,7 +1,7 @@
 (footprint "APA102-5050" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500da7098d22e8b42c88f2d")
+  (property "FlashPCB footprint ID" "65021e04c2428e52893175e7")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

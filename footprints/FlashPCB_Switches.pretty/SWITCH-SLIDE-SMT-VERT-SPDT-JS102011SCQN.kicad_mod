@@ -1,7 +1,7 @@
 (footprint "SWITCH-SLIDE-SMT-VERT-SPDT-JS102011SCQN" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500db4e98d22e8b42c89159")
+  (property "FlashPCB footprint ID" "65021eb5c2428e5289317819")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "JST-SWR25X-NRTC-S8-ST-BA-THT-VERT-8CH-2.54MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500d8c998d22e8b42c88c4b")
+  (property "FlashPCB footprint ID" "65021cc0c2428e5289317303")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

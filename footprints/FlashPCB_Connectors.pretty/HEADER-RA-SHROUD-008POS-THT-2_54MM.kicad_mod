@@ -1,7 +1,7 @@
 (footprint "HEADER-RA-SHROUD-008POS-THT-2_54MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500d80b98d22e8b42c88a9a")
+  (property "FlashPCB footprint ID" "65021c1ac2428e5289317152")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "JST-S2PS-VH-THT-RA-STABL-2CH-3.96MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500d8e498d22e8b42c88c82")
+  (property "FlashPCB footprint ID" "65021cd8c2428e528931733a")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

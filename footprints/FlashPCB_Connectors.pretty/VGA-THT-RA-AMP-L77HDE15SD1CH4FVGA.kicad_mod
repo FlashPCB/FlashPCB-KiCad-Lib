@@ -1,7 +1,7 @@
 (footprint "VGA-THT-RA-AMP-L77HDE15SD1CH4FVGA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6500d9a398d22e8b42c88e1e")
+  (property "FlashPCB footprint ID" "65021d78c2428e52893174d6")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
