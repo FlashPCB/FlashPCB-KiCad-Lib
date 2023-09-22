@@ -1,7 +1,7 @@
 (footprint "PWRJACK_PJ-031D_3.5MM_THT_RA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021d58c2428e5289317471")
+  (property "FlashPCB footprint ID" "650df806a325953448c8dca2")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "20-LGA-AS7XXX" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e9ec2428e52893177d4")
+  (property "FlashPCB footprint ID" "650df9cba325953448c8e009")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

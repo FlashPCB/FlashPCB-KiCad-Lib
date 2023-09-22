@@ -1,7 +1,7 @@
 (footprint "HEADER-THT-01X038-2_54MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021b9cc2428e5289316fef")
+  (property "FlashPCB footprint ID" "650df5c1a325953448c8d820")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

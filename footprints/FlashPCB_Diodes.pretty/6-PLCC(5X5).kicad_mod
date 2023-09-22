@@ -1,7 +1,7 @@
 (footprint "6-PLCC(5X5)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021dc4c2428e5289317534")
+  (property "FlashPCB footprint ID" "650df8a4a325953448c8dd65")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

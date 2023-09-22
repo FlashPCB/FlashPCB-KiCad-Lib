@@ -1,7 +1,7 @@
 (footprint "PEC12R-4XXXF-SXXXX" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e69c2428e528931772d")
+  (property "FlashPCB footprint ID" "650df982a325953448c8df5e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

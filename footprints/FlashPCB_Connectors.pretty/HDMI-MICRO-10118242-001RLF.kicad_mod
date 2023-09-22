@@ -1,7 +1,7 @@
 (footprint "HDMI-MICRO-10118242-001RLF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021b5ac2428e5289316f34")
+  (property "FlashPCB footprint ID" "650df56aa325953448c8d765")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

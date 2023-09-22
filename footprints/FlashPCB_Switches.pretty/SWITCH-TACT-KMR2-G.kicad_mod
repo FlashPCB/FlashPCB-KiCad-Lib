@@ -1,7 +1,7 @@
 (footprint "SWITCH-TACT-KMR2-G" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021ebbc2428e5289317830")
+  (property "FlashPCB footprint ID" "650df9f2a325953448c8e061")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

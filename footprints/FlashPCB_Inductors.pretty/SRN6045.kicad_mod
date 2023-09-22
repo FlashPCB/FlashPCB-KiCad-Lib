@@ -1,7 +1,7 @@
 (footprint "SRN6045" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e62c2428e5289317715")
+  (property "FlashPCB footprint ID" "650df978a325953448c8df46")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

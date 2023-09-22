@@ -1,7 +1,7 @@
 (footprint "ANT-JOHANSON-3.2MMX1.20MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e66c2428e5289317721")
+  (property "FlashPCB footprint ID" "650df97da325953448c8df52")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

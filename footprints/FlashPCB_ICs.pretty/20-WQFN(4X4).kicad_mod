@@ -1,7 +1,7 @@
 (footprint "20-WQFN(4X4)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e0bc2428e52893175fd")
+  (property "FlashPCB footprint ID" "650df900a325953448c8de2e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

@@ -1,7 +1,7 @@
 (footprint "8-VSSOP-90MIL-2.3MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021e1cc2428e5289317636")
+  (property "FlashPCB footprint ID" "650df916a325953448c8de67")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )

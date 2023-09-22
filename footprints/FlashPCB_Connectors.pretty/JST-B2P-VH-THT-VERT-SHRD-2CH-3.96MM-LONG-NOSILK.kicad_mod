@@ -1,7 +1,7 @@
 (footprint "JST-B2P-VH-THT-VERT-SHRD-2CH-3.96MM-LONG-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "65021cdac2428e528931733f")
+  (property "FlashPCB footprint ID" "650df75fa325953448c8db70")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
     (effects (font (size 1 1)) hide)
   )
