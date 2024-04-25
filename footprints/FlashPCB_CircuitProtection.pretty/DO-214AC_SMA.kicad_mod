@@ -1,12 +1,12 @@
 (footprint "DO-214AC_SMA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df53ba325953448c8d6fc")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad1055742c95c2d2fcced")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "DO-214AC_SMA" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "DO-214AC_SMA" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -3.35 -0.95)

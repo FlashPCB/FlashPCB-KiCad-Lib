@@ -1,12 +1,12 @@
 (footprint "4-WDFN(2X2)-EP" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df9b9a325953448c8dfdc")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad4955742c95c2d2fd5e6")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "4-WDFN(2X2)-EP" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "4-WDFN(2X2)-EP" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -1.1 -1.1)

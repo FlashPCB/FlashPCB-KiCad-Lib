@@ -1,12 +1,12 @@
 (footprint "ARDUINO_UNO_ALLPINS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df87ba325953448c8dd1c")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad39d5742c95c2d2fd31f")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "ARDUINO_UNO_ALLPINS" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "ARDUINO_UNO_ALLPINS" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -44.2 -52.32)

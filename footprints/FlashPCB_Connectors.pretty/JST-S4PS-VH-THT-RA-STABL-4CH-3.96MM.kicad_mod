@@ -1,12 +1,12 @@
 (footprint "JST-S4PS-VH-THT-RA-STABL-4CH-3.96MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df76fa325953448c8db8c")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2d95742c95c2d2fd18f")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-S4PS-VH-THT-RA-STABL-4CH-3.96MM" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-S4PS-VH-THT-RA-STABL-4CH-3.96MM" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -8.14 13.65)

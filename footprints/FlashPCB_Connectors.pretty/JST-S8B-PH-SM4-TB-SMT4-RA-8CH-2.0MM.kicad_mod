@@ -1,12 +1,12 @@
 (footprint "JST-S8B-PH-SM4-TB-SMT4-RA-8CH-2.0MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df6c6a325953448c8da3a")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad24c5742c95c2d2fd03d")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-S8B-PH-SM4-TB-SMT4-RA-8CH-2.0MM" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-S8B-PH-SM4-TB-SMT4-RA-8CH-2.0MM" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -10.2 -1.8)

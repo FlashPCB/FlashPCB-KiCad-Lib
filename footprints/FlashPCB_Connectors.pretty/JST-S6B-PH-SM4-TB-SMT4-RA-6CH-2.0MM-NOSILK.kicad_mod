@@ -1,12 +1,12 @@
 (footprint "JST-S6B-PH-SM4-TB-SMT4-RA-6CH-2.0MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df6b9a325953448c8da21")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2415742c95c2d2fd024")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-S6B-PH-SM4-TB-SMT4-RA-6CH-2.0MM-NOSILK" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-S6B-PH-SM4-TB-SMT4-RA-6CH-2.0MM-NOSILK" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -8.2 -1.8)

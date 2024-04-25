@@ -1,12 +1,12 @@
 (footprint "JST-B4P-VH-THT-VERT-SHRD-4CH-3.96MM-LONG-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df772a325953448c8db92")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2dc5742c95c2d2fd195")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-B4P-VH-THT-VERT-SHRD-4CH-3.96MM-LONG-NOSILK" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-B4P-VH-THT-VERT-SHRD-4CH-3.96MM-LONG-NOSILK" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -7.47 -2.6)

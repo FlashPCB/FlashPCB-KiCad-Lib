@@ -1,12 +1,12 @@
 (footprint "JST-S14B-PH-K-THT-RA-14CH-2.0MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df68aa325953448c8d9c0")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2175742c95c2d2fcfc3")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-S14B-PH-K-THT-RA-14CH-2.0MM-NOSILK" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-S14B-PH-K-THT-RA-14CH-2.0MM-NOSILK" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -15.2 -1.6)

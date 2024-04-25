@@ -1,12 +1,12 @@
 (footprint "CRYSTAL_2-SMD_FLATLEAD_7.00MMX4.10MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df99ba325953448c8df94")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad47e5742c95c2d2fd59e")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "CRYSTAL_2-SMD_FLATLEAD_7.00MMX4.10MM" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "CRYSTAL_2-SMD_FLATLEAD_7.00MMX4.10MM" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -5.05 -2.3)

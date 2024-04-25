@@ -1,12 +1,12 @@
 (footprint "JST-B10B-PH-SM4-TB-SMT-VERT-10CH-2.0MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df673a325953448c8d993")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2045742c95c2d2fcf96")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-B10B-PH-SM4-TB-SMT-VERT-10CH-2.0MM" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-B10B-PH-SM4-TB-SMT-VERT-10CH-2.0MM" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -12.3 -2.75)

@@ -1,12 +1,12 @@
 (footprint "USB-MICRO-B-SMT-RA-AMPH-10118192-0001LF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df826a325953448c8dceb")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad36e5742c95c2d2fd2ee")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "USB-MICRO-B-SMT-RA-AMPH-10118192-0001LF" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "USB-MICRO-B-SMT-RA-AMPH-10118192-0001LF" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -4.8 -0.4)

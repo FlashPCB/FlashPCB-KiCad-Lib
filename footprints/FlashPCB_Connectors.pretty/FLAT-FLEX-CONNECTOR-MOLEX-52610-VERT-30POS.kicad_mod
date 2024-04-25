@@ -1,12 +1,12 @@
 (footprint "FLAT-FLEX-CONNECTOR-MOLEX-52610-VERT-30POS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df566a325953448c8d761")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad12c5742c95c2d2fcd64")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "FLAT-FLEX-CONNECTOR-MOLEX-52610-VERT-30POS" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "FLAT-FLEX-CONNECTOR-MOLEX-52610-VERT-30POS" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -18.6 -2.1)

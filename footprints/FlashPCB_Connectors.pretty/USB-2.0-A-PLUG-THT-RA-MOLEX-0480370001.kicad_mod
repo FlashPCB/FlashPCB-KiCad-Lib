@@ -1,12 +1,12 @@
 (footprint "USB-2.0-A-PLUG-THT-RA-MOLEX-0480370001" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df82ea325953448c8dcff")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad3755742c95c2d2fd302")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "USB-2.0-A-PLUG-THT-RA-MOLEX-0480370001" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "USB-2.0-A-PLUG-THT-RA-MOLEX-0480370001" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -6.454 0.75)

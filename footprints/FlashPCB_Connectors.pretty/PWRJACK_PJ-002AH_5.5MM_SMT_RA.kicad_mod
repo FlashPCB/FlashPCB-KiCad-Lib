@@ -1,12 +1,12 @@
 (footprint "PWRJACK_PJ-002AH_5.5MM_SMT_RA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df807a325953448c8dca4")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad3565742c95c2d2fd2a7")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "PWRJACK_PJ-002AH_5.5MM_SMT_RA" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "PWRJACK_PJ-002AH_5.5MM_SMT_RA" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -4.5 -8.75)

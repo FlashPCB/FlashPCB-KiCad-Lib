@@ -1,12 +1,12 @@
 (footprint "USB-2.0-A-SMT-RA-AMPH-87583-3010RPALF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df829a325953448c8dcf1")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad3705742c95c2d2fd2f4")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "USB-2.0-A-SMT-RA-AMPH-87583-3010RPALF" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "USB-2.0-A-SMT-RA-AMPH-87583-3010RPALF" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy 7.25 10.53)

@@ -1,12 +1,12 @@
 (footprint "JST-SWR25X-NRTC-S4-ST-BA-THT-VERT-4CH-2.54MM-LONG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df72da325953448c8db10")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad2a55742c95c2d2fd113")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "JST-SWR25X-NRTC-S4-ST-BA-THT-VERT-4CH-2.54MM-LONG" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "JST-SWR25X-NRTC-S4-ST-BA-THT-VERT-4CH-2.54MM-LONG" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -5.35 -2.85)

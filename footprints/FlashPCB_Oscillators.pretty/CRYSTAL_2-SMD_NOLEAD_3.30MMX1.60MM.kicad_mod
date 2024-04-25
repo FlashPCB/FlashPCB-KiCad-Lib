@@ -1,12 +1,12 @@
 (footprint "CRYSTAL_2-SMD_NOLEAD_3.30MMX1.60MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "650df991a325953448c8df7c")
-  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (property "FlashPCB footprint ID" "662ad4775742c95c2d2fd586")
+  (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
-  (fp_text value "CRYSTAL_2-SMD_NOLEAD_3.30MMX1.60MM" (at 0 0) (layer "Dwgs.User")
-    (effects (font (size 1 1)) hide)
+  (fp_text value "CRYSTAL_2-SMD_NOLEAD_3.30MMX1.60MM" (at 0 0) (layer "Dwgs.User") hide
+    (effects (font (size 1 1)))
   )
   (fp_poly (pts
       (xy -1.05 1.9)
