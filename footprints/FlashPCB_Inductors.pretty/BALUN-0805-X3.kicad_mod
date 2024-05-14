@@ -1,7 +1,7 @@
 (footprint "BALUN-0805-X3" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4645742c95c2d2fd552")
+  (property "FlashPCB footprint ID" "6642e30b9b60c45b02c3af49")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

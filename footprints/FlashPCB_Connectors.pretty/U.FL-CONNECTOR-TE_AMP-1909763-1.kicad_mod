@@ -1,7 +1,7 @@
 (footprint "U.FL-CONNECTOR-TE_AMP-1909763-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad36b5742c95c2d2fd2e4")
+  (property "FlashPCB footprint ID" "6642e1ec9b60c45b02c3acd9")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

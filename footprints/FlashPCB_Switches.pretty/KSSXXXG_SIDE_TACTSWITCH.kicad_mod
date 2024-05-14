@@ -1,7 +1,7 @@
 (footprint "KSSXXXG_SIDE_TACTSWITCH" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4b05742c95c2d2fd63a")
+  (property "FlashPCB footprint ID" "6642e3609b60c45b02c3b031")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

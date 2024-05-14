@@ -1,7 +1,7 @@
 (footprint "D2PAK_TO-263-4_NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4d45742c95c2d2fd6a5")
+  (property "FlashPCB footprint ID" "6642e3a79b60c45b02c3b0ef")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

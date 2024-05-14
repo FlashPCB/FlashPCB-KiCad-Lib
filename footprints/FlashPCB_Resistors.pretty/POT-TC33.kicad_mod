@@ -1,7 +1,7 @@
 (footprint "POT-TC33" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4805742c95c2d2fd5a4")
+  (property "FlashPCB footprint ID" "6642e32b9b60c45b02c3af9b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

@@ -1,7 +1,7 @@
 (footprint "SARA-RX" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4345742c95c2d2fd4c6")
+  (property "FlashPCB footprint ID" "6642e2d49b60c45b02c3aebb")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

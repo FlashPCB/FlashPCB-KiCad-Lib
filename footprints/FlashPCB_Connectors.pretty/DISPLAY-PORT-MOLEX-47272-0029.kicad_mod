@@ -1,7 +1,7 @@
 (footprint "DISPLAY-PORT-MOLEX-47272-0029" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad1175742c95c2d2fcd1b")
+  (property "FlashPCB footprint ID" "6642df3d9b60c45b02c3a710")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

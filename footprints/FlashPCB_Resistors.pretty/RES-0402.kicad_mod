@@ -1,7 +1,7 @@
 (footprint "RES-0402" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4865742c95c2d2fd5b5")
+  (property "FlashPCB footprint ID" "6642e3319b60c45b02c3afac")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

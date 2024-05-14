@@ -1,7 +1,7 @@
 (footprint "MPL115A2-I2C" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad49b5742c95c2d2fd5fa")
+  (property "FlashPCB footprint ID" "6642e3499b60c45b02c3aff1")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

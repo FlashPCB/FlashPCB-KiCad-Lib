@@ -1,7 +1,7 @@
 (footprint "HEADER-THT-LONG-01X065-2_54MM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad1a95742c95c2d2fceab")
+  (property "FlashPCB footprint ID" "6642dfe69b60c45b02c3a8a0")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

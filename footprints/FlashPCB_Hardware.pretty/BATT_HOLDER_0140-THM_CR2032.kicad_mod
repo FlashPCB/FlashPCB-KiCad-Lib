@@ -1,7 +1,7 @@
 (footprint "BATT_HOLDER_0140-THM_CR2032" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad3c15742c95c2d2fd370")
+  (property "FlashPCB footprint ID" "6642e2519b60c45b02c3ad67")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

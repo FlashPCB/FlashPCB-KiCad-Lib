@@ -1,7 +1,7 @@
 (footprint "SWITCH-TACT-PVA1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4b55742c95c2d2fd64a")
+  (property "FlashPCB footprint ID" "6642e3669b60c45b02c3b041")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

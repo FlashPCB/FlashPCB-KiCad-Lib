@@ -1,7 +1,7 @@
 (footprint "DIN_5P_SDS-50J" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad1165742c95c2d2fcd19")
+  (property "FlashPCB footprint ID" "6642df3c9b60c45b02c3a70e")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

@@ -1,7 +1,7 @@
 (footprint "MOUNT-HOLE-#8-NO-SILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad3cf5742c95c2d2fd394")
+  (property "FlashPCB footprint ID" "6642e2609b60c45b02c3ad8b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

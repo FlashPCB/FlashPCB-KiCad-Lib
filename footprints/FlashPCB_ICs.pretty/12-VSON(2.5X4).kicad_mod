@@ -1,7 +1,7 @@
 (footprint "12-VSON(2.5X4)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad4075742c95c2d2fd434")
+  (property "FlashPCB footprint ID" "6642e2a19b60c45b02c3ae2b")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )

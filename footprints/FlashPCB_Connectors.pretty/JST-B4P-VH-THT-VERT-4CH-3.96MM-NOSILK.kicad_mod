@@ -1,7 +1,7 @@
 (footprint "JST-B4P-VH-THT-VERT-4CH-3.96MM-NOSILK" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "662ad2d75742c95c2d2fd18a")
+  (property "FlashPCB footprint ID" "6642e13f9b60c45b02c3ab7f")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )
