@@ -1,7 +1,7 @@
 (footprint "FUSE-1812" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (property "FlashPCB footprint ID" "6642df399b60c45b02c3a706")
+  (property "FlashPCB footprint ID" "66431dd074c181dd9c72ad23")
   (fp_text reference "Ref**" (at 0 0) (layer "Dwgs.User") hide
     (effects (font (size 1 1)))
   )
